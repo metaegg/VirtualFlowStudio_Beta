@@ -1,0 +1,43 @@
+[
+	{
+		"Name": "Gardens",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"WorldTimeTag": "Day",
+		"WorldTimeScale": 1,
+		"DefaultPlayerLocation":
+		{
+			"X": -5694.8037109375,
+			"Y": 2413.35400390625,
+			"Z": 201.510009765625
+		},
+		"DefaultPlayerRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 1.2927438020706177,
+			"Roll": 0
+		},
+		"bSetStartCameraSetting": false,
+		"DefaultCameraSetting":
+		{
+			"DefaultControlMode": "ThirdPersonView",
+			"Pitch": 0,
+			"Yaw": 0,
+			"Distance": 200
+		},
+		"GravityZ": -980,
+		"EntityAsset": "/Game/VirtualFlow/Tutorials/TutorialProject/Map/Gardens_Example.Gardens_Example",
+		"DefaultSpawnAsset": "/Game/TD_Demo/QA/Project/Test/Spawn/GardensMapSpawn_1.GardensMapSpawn_1",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

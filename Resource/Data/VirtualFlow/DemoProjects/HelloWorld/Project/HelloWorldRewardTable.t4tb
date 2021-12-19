@@ -1,0 +1,37 @@
+[
+	{
+		"Name": "T4Quest_Reward",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "T4QuestReward_1",
+			"ValidationResult": "CheckIt"
+		},
+		"PaymentType": "DropItem",
+		"ItemDropRange": 100,
+		"RewardStatDBKey":
+		{
+			"StatCategory": "Reward",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ItemPackageDatas": [
+			{
+				"ItemCategory": "Weapon",
+				"ItemDBKeyName": "Rifle_AR4",
+				"ItemCount": 1
+			}
+		],
+		"MainEntityAsset": "/Game/VirtualFlow/DemoProjects/Assets/Entity/Weapon/FPS_Weapon_Bundle/Weapon_AR4.Weapon_AR4",
+		"TakeActionPackAsset": "None",
+		"MainPortraitName": "Default",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

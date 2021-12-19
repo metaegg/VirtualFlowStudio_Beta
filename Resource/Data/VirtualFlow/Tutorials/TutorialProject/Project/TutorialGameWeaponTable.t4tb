@@ -1,0 +1,86 @@
+[
+	{
+		"Name": "MagicalRing",
+		"Version": 2,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Weapon_MagicalRing_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultAnimSetName": "Default",
+		"DefaultSkillSetDBKey":
+		{
+			"Type": "SkillSet",
+			"RowName": "MagicalRing_SkillSet",
+			"ValidationResult": "CheckIt"
+		},
+		"StanceSkillSetDBKey":
+		{
+			"None_1":
+			{
+				"Type": "SkillSet",
+				"RowName": "None",
+				"ValidationResult": "CheckIt"
+			}
+		},
+		"MinAttackRange": 10,
+		"MaxAttackRange": 100,
+		"ItemStatDBKey":
+		{
+			"StatCategory": "Item",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"UseEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DualWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"WeaponStanceType": "DualHand",
+		"bDontUseMesh": false,
+		"WeaponEntityAsset": "/Game/VirtualFlow/Tutorials/TutorialProject/Weapon/Weapon_MagicalRing_Example.Weapon_MagicalRing_Example",
+		"StanceAttachPoints":
+		{
+		},
+		"MainEntityData":
+		{
+			"WeaponEntityAsset": "None",
+			"StanceAttachPointMap":
+			{
+			}
+		},
+		"VRDataSetName": "Default",
+		"ShapeData":
+		{
+			"ShapeRadius": 25,
+			"ShapeHeight": 25,
+			"AgentRadius": 25,
+			"AgentHeight": 25,
+			"bUseShapeHitOverlapEvents": false
+		},
+		"PickupResultType": "Inventory",
+		"PickupAllowRange": 200,
+		"Stackable": false,
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

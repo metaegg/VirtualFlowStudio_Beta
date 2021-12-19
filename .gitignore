@@ -1,0 +1,76 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.pyc
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Folders
+Content/TylerJo
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Folders
+Content/TylerJo
+
+# Executables
+*.out
+*.app
+*.pdb
+
+# Windows
+/desktop.ini
+
+# Resources
+*.fbx
+*.tga
+
+# Localization
+*.txt
+*.csv
+
+# T4Framework
+*.cpp
+*.h
+*.cs
+*.orig
+*.db
+/*.sln
+.vs
+Binaries/Win64/*.exe
+Content/VirtualFlow/UserData/UserProject/T4UserProjectsSetting.t4proj
+Content/VirtualFlow/StagingData/
+Config/DefaultT4Framework.ini
+*BuiltData.uasset
+enc_temp_folder/
+Config/Localization/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+ThirdParty/
+Source/
+Content/AnimStarterPack/
+Content/FPS_Weapon_Bundle/
+Content/LearningKit_Games/
+Content/CityofBrass_Enemies/
+Content/City_of_Brass_Enviroment/
+Content/Hour_of_Code/

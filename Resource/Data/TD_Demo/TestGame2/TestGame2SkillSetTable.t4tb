@@ -1,0 +1,437 @@
+[
+	{
+		"Name": "SkillSetBossAtkTestGame2",
+		"Version": 0,
+		"PlayMode": "Primary",
+		"BodyDBKey_Overlap":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_LeftHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_RightHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "SkillBossAtkTestGame2",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_E":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_F":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "SkillSetMon2AtkTestGame2",
+		"Version": 0,
+		"PlayMode": "Primary",
+		"BodyDBKey_Overlap":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_LeftHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_RightHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "SkillMon2AtkTestGame2",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_E":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_F":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "SkillSetPlayerAtkTestGame2",
+		"Version": 0,
+		"PlayMode": "Primary",
+		"BodyDBKey_Overlap":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_LeftHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_RightHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "SkillPlayerAtkTestGame2",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_E":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_F":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "SkillSetMon1AtkTestGame2",
+		"Version": 0,
+		"PlayMode": "Primary",
+		"BodyDBKey_Overlap":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_LeftHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_RightHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "SkillMon1AtkTestGame2",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_E":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_F":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "SkillSetMon3ATKTestGame2",
+		"Version": 0,
+		"PlayMode": "Primary",
+		"BodyDBKey_Overlap":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_LeftHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_RightHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "SkillMon3AtkTestGame2",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_E":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_F":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

@@ -1,0 +1,40 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0a",
+	"FriendlyName": "T4FrameworkService Plugin",
+	"Description": "The Most Powerful Metaverse Framework for UE4",
+	"Category": "VirtualFlow, Inc",
+	"CreatedBy": "VirtualFlow, Inc",
+	"CreatedByURL": "https://t4framework.com",
+	"DocsURL": "https://t4framework.com/T4Framework_Tutorials/",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.0.0",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "T4WorldServerService",
+			"Type": "Runtime",
+			"LoadingPhase": "PostDefault"
+		},
+		{
+			"Name": "T4LobbyServerService",
+			"Type": "Runtime",
+			"LoadingPhase": "PostDefault"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "T4FrameworkCore",
+			"Enabled": true
+		},
+		{
+			"Name": "T4FrameworkEditor",
+			"Enabled": true
+		}
+	]
+}

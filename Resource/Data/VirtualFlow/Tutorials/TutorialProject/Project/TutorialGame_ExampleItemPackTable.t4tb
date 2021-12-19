@@ -1,0 +1,82 @@
+[
+	{
+		"Name": "MainCharacterEnemyDeathReward",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "ItemPack_MainCharacterEnemyDeathReward_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"PaymentType": "DropItem",
+		"ItemDropRange": 100,
+		"ItemPackStatDBKey":
+		{
+			"StatCategory": "ItemPack",
+			"Type": "Stat",
+			"RowName": "MainCharacterEnemy_RewardDropRate",
+			"ValidationResult": "CheckIt"
+		},
+		"ItemPackageDatas": [
+			{
+				"ItemCategory": "Goods",
+				"ItemDBKeyName": "SpeedUpPotion",
+				"ItemCount": 3
+			},
+			{
+				"ItemCategory": "Goods",
+				"ItemDBKeyName": "HpRecoveryPotion",
+				"ItemCount": 1
+			}
+		],
+		"MainEntityAsset": "None",
+		"TakeActionPackAsset": "None",
+		"MainPortraitName": "Default",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "TutorialGameReward",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "ItemPack_TutorialGameReward_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"PaymentType": "Inventory",
+		"ItemDropRange": 100,
+		"ItemPackStatDBKey":
+		{
+			"StatCategory": "ItemPack",
+			"Type": "Stat",
+			"RowName": "TutorialMission_Rate",
+			"ValidationResult": "CheckIt"
+		},
+		"ItemPackageDatas": [
+			{
+				"ItemCategory": "Weapon",
+				"ItemDBKeyName": "MagicalRing",
+				"ItemCount": 1
+			},
+			{
+				"ItemCategory": "Goods",
+				"ItemDBKeyName": "HpRecoveryPotion",
+				"ItemCount": 5
+			}
+		],
+		"MainEntityAsset": "/Game/VirtualFlow/Tutorials/TutorialProject/Weapon/Weapon_MagicalRing_Example.Weapon_MagicalRing_Example",
+		"TakeActionPackAsset": "None",
+		"MainPortraitName": "Default",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

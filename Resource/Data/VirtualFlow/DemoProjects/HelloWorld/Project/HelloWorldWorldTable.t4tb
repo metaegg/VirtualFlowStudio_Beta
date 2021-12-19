@@ -1,0 +1,84 @@
+[
+	{
+		"Name": "CombatWorld",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "World_CombatWorld_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"WorldTimeTag": "Day",
+		"WorldTimeScale": 1,
+		"DefaultPlayerLocation":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"DefaultPlayerRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"bSetStartCameraSetting": false,
+		"DefaultCameraSetting":
+		{
+			"DefaultControlMode": "ThirdPersonView",
+			"Pitch": 0,
+			"Yaw": 0,
+			"Distance": 200
+		},
+		"GravityZ": -980,
+		"EntityAsset": "/Game/VirtualFlow/StarterPack/Entity/Map/CombatMapEntity.CombatMapEntity",
+		"DefaultSpawnAsset": "None",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "NPCSpawnWorld",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "World_NPCSpawnWorld_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"WorldTimeTag": "Day",
+		"WorldTimeScale": 1,
+		"DefaultPlayerLocation":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"DefaultPlayerRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"bSetStartCameraSetting": false,
+		"DefaultCameraSetting":
+		{
+			"DefaultControlMode": "ThirdPersonView",
+			"Pitch": 0,
+			"Yaw": 0,
+			"Distance": 200
+		},
+		"GravityZ": -980,
+		"EntityAsset": "/Game/VirtualFlow/StarterPack/Entity/Map/CombatMapEntity.CombatMapEntity",
+		"DefaultSpawnAsset": "/Game/VirtualFlow/DemoProjects/HelloWorld/Project/Spawn/NPCSpawnExample.NPCSpawnExample",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

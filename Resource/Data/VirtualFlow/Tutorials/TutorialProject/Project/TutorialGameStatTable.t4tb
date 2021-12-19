@@ -1,0 +1,398 @@
+[
+	{
+		"Name": "MainCharacter_PC_Stat",
+		"Version": 0,
+		"StatCategory": "Player",
+		"StatItemCategory": "Weapon",
+		"PhysicalData":
+		{
+			"Basic_HP": 200,
+			"Striking_Power": 50,
+			"Hit_Rate": 100,
+			"Defensive_Power": 10,
+			"Dodge_Rate": 0
+		},
+		"OffenseData":
+		{
+			"Striking_Power": 0,
+			"Hit_Rate": 0,
+			"CC_Knockback_Rate": 0,
+			"CC_Stun_Rate": 0
+		},
+		"DefenseData":
+		{
+			"Defensive_Power": 0,
+			"Dodge_Rate": 0,
+			"Add_HP": 0
+		},
+		"ConsumableData":
+		{
+			"HP": 0
+		},
+		"StatusEffectData":
+		{
+			"HP_Charge": 0,
+			"MoveSpeed_Rate": 100
+		},
+		"ItemPackData":
+		{
+			"Drop_Rate": 100
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "MainChracter_Skill_Stat",
+		"Version": 0,
+		"StatCategory": "Skill",
+		"StatItemCategory": "Weapon",
+		"PhysicalData":
+		{
+			"Basic_HP": 100,
+			"Striking_Power": 10,
+			"Hit_Rate": 0,
+			"Defensive_Power": 10,
+			"Dodge_Rate": 0
+		},
+		"OffenseData":
+		{
+			"Striking_Power": 10,
+			"Hit_Rate": 100,
+			"CC_Knockback_Rate": 0,
+			"CC_Stun_Rate": 0
+		},
+		"DefenseData":
+		{
+			"Defensive_Power": 0,
+			"Dodge_Rate": 0,
+			"Add_HP": 0
+		},
+		"ConsumableData":
+		{
+			"HP": 0
+		},
+		"StatusEffectData":
+		{
+			"HP_Charge": 0,
+			"MoveSpeed_Rate": 100
+		},
+		"ItemPackData":
+		{
+			"Drop_Rate": 100
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "MainCharacter_Enemy_Stat",
+		"Version": 0,
+		"StatCategory": "NPC",
+		"StatItemCategory": "Weapon",
+		"PhysicalData":
+		{
+			"Basic_HP": 100,
+			"Striking_Power": 10,
+			"Hit_Rate": 100,
+			"Defensive_Power": 10,
+			"Dodge_Rate": 0
+		},
+		"OffenseData":
+		{
+			"Striking_Power": 0,
+			"Hit_Rate": 0,
+			"CC_Knockback_Rate": 0,
+			"CC_Stun_Rate": 0
+		},
+		"DefenseData":
+		{
+			"Defensive_Power": 0,
+			"Dodge_Rate": 0,
+			"Add_HP": 0
+		},
+		"ConsumableData":
+		{
+			"HP": 0
+		},
+		"StatusEffectData":
+		{
+			"HP_Charge": 0,
+			"MoveSpeed_Rate": 100
+		},
+		"ItemPackData":
+		{
+			"Drop_Rate": 100
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "MainCharacter_Enemy_RewardDropRate",
+		"Version": 0,
+		"StatCategory": "None",
+		"StatItemCategory": "Weapon",
+		"PhysicalData":
+		{
+			"Basic_HP": 100,
+			"Striking_Power": 10,
+			"Hit_Rate": 0,
+			"Defensive_Power": 10,
+			"Dodge_Rate": 0
+		},
+		"OffenseData":
+		{
+			"Striking_Power": 0,
+			"Hit_Rate": 0,
+			"CC_Knockback_Rate": 0,
+			"CC_Stun_Rate": 0
+		},
+		"DefenseData":
+		{
+			"Defensive_Power": 0,
+			"Dodge_Rate": 0,
+			"Add_HP": 0
+		},
+		"ConsumableData":
+		{
+			"HP": 0
+		},
+		"StatusEffectData":
+		{
+			"HP_Charge": 0,
+			"MoveSpeed_Rate": 100
+		},
+		"ItemPackData":
+		{
+			"Drop_Rate": 100
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "TutorialMission1_Rate",
+		"Version": 0,
+		"StatCategory": "None",
+		"StatItemCategory": "Weapon",
+		"PhysicalData":
+		{
+			"Basic_HP": 100,
+			"Striking_Power": 10,
+			"Hit_Rate": 0,
+			"Defensive_Power": 10,
+			"Dodge_Rate": 0
+		},
+		"OffenseData":
+		{
+			"Striking_Power": 0,
+			"Hit_Rate": 0,
+			"CC_Knockback_Rate": 0,
+			"CC_Stun_Rate": 0
+		},
+		"DefenseData":
+		{
+			"Defensive_Power": 0,
+			"Dodge_Rate": 0,
+			"Add_HP": 0
+		},
+		"ConsumableData":
+		{
+			"HP": 0
+		},
+		"StatusEffectData":
+		{
+			"HP_Charge": 0,
+			"MoveSpeed_Rate": 100
+		},
+		"ItemPackData":
+		{
+			"Drop_Rate": 100
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "SpeedUpThurible_Buff_Stat",
+		"Version": 0,
+		"StatCategory": "Effect",
+		"StatItemCategory": "Weapon",
+		"PhysicalData":
+		{
+			"Basic_HP": 100,
+			"Striking_Power": 10,
+			"Hit_Rate": 0,
+			"Defensive_Power": 10,
+			"Dodge_Rate": 0
+		},
+		"OffenseData":
+		{
+			"Striking_Power": 0,
+			"Hit_Rate": 0,
+			"CC_Knockback_Rate": 0,
+			"CC_Stun_Rate": 0
+		},
+		"DefenseData":
+		{
+			"Defensive_Power": 0,
+			"Dodge_Rate": 0,
+			"Add_HP": 0
+		},
+		"ConsumableData":
+		{
+			"HP": 0
+		},
+		"StatusEffectData":
+		{
+			"HP_Charge": 0,
+			"MoveSpeed_Rate": 150
+		},
+		"ItemPackData":
+		{
+			"Drop_Rate": 100
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "HpRecoveryBarrel_Consumable_Stat",
+		"Version": 0,
+		"StatCategory": "Effect",
+		"StatItemCategory": "Weapon",
+		"PhysicalData":
+		{
+			"Basic_HP": 100,
+			"Striking_Power": 10,
+			"Hit_Rate": 0,
+			"Defensive_Power": 10,
+			"Dodge_Rate": 0
+		},
+		"OffenseData":
+		{
+			"Striking_Power": 0,
+			"Hit_Rate": 0,
+			"CC_Knockback_Rate": 0,
+			"CC_Stun_Rate": 0
+		},
+		"DefenseData":
+		{
+			"Defensive_Power": 0,
+			"Dodge_Rate": 0,
+			"Add_HP": 0
+		},
+		"ConsumableData":
+		{
+			"HP": 50
+		},
+		"StatusEffectData":
+		{
+			"HP_Charge": 0,
+			"MoveSpeed_Rate": 100
+		},
+		"ItemPackData":
+		{
+			"Drop_Rate": 100
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "MainCharacterEnemy_RewardDropRate",
+		"Version": 0,
+		"StatCategory": "ItemPack",
+		"StatItemCategory": "Weapon",
+		"PhysicalData":
+		{
+			"Basic_HP": 100,
+			"Striking_Power": 10,
+			"Hit_Rate": 0,
+			"Defensive_Power": 10,
+			"Dodge_Rate": 0
+		},
+		"OffenseData":
+		{
+			"Striking_Power": 0,
+			"Hit_Rate": 0,
+			"CC_Knockback_Rate": 0,
+			"CC_Stun_Rate": 0
+		},
+		"DefenseData":
+		{
+			"Defensive_Power": 0,
+			"Dodge_Rate": 0,
+			"Add_HP": 0
+		},
+		"ConsumableData":
+		{
+			"HP": 0
+		},
+		"StatusEffectData":
+		{
+			"HP_Charge": 0,
+			"MoveSpeed_Rate": 100
+		},
+		"ItemPackData":
+		{
+			"Drop_Rate": 100
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "TutorialMission_Rate",
+		"Version": 0,
+		"StatCategory": "ItemPack",
+		"StatItemCategory": "Weapon",
+		"PhysicalData":
+		{
+			"Basic_HP": 100,
+			"Striking_Power": 10,
+			"Hit_Rate": 0,
+			"Defensive_Power": 10,
+			"Dodge_Rate": 0
+		},
+		"OffenseData":
+		{
+			"Striking_Power": 0,
+			"Hit_Rate": 0,
+			"CC_Knockback_Rate": 0,
+			"CC_Stun_Rate": 0
+		},
+		"DefenseData":
+		{
+			"Defensive_Power": 0,
+			"Dodge_Rate": 0,
+			"Add_HP": 0
+		},
+		"ConsumableData":
+		{
+			"HP": 0
+		},
+		"StatusEffectData":
+		{
+			"HP_Charge": 0,
+			"MoveSpeed_Rate": 100
+		},
+		"ItemPackData":
+		{
+			"Drop_Rate": 100
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

@@ -1,0 +1,89 @@
+[
+	{
+		"Name": "MagicalRing_SkillSet",
+		"Version": 0,
+		"PlayMode": "Primary",
+		"BodyDBKey_Overlap":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_LeftHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_RightHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "MagicalRing_NormalAttack",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_E":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_F":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

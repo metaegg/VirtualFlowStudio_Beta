@@ -1,0 +1,18 @@
+{
+	"BuildId": "16433597",
+	"Modules": 
+	{
+		"T4ActionEditor": "UnrealEditor-T4ActionEditor.dll",
+		"T4ActionSequencer": "UnrealEditor-T4ActionSequencer.dll",
+		"T4Commandlet": "UnrealEditor-T4Commandlet.dll",
+		"T4CommandletAsset": "UnrealEditor-T4CommandletAsset.dll",
+		"T4ContentEditor": "UnrealEditor-T4ContentEditor.dll",
+		"T4EditorCommon": "UnrealEditor-T4EditorCommon.dll",
+		"T4EntityEditor": "UnrealEditor-T4EntityEditor.dll",
+		"T4GameDBTableProxy": "UnrealEditor-T4GameDBTableProxy.dll",
+		"T4LevelEditorMode": "UnrealEditor-T4LevelEditorMode.dll",
+		"T4Persona": "UnrealEditor-T4Persona.dll",
+		"T4UserProjectBrowser": "UnrealEditor-T4UserProjectBrowser.dll",
+		"T4WorldExplorer": "UnrealEditor-T4WorldExplorer.dll"
+	}
+}

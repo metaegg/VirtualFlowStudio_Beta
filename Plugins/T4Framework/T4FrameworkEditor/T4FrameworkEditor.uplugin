@@ -1,0 +1,90 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0a",
+	"FriendlyName": "T4FrameworkEditor Plugin",
+	"Description": "The Most Powerful Metaverse Framework for UE4",
+	"Category": "VirtualFlow, Inc",
+	"CreatedBy": "VirtualFlow, Inc",
+	"CreatedByURL": "https://t4framework.com",
+	"DocsURL": "https://t4framework.com/T4Framework_Tutorials/",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.0.0",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "T4Commandlet",
+			"Type": "Editor",
+			"LoadingPhase": "PostDefault"
+		},
+		{
+			"Name": "T4CommandletAsset",
+			"Type": "Editor",
+			"LoadingPhase": "PostDefault"
+		},
+		{
+			"Name": "T4EditorCommon",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		},
+		{
+			"Name": "T4LevelEditorMode",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		},
+		{
+			"Name": "T4Persona",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		},
+		{
+			"Name": "T4EntityEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		},
+		{
+			"Name": "T4ActionSequencer",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		},
+		{
+			"Name": "T4ActionEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		},
+		{
+			"Name": "T4WorldExplorer",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		},
+		{
+			"Name": "T4ContentEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		},
+		{
+			"Name": "T4UserProjectBrowser",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		},
+		{
+			"Name": "T4GameDBTableProxy",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "T4FrameworkCore",
+			"Enabled": true
+		}
+	]
+}

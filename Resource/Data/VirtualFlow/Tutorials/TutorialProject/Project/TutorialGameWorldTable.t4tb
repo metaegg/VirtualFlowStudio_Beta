@@ -1,0 +1,43 @@
+[
+	{
+		"Name": "Gardens",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "World_Gardens_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"WorldTimeTag": "Day",
+		"WorldTimeScale": 1,
+		"DefaultPlayerLocation":
+		{
+			"X": -5667,
+			"Y": 2385,
+			"Z": 200
+		},
+		"DefaultPlayerRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0.86000001430511475,
+			"Roll": 0
+		},
+		"bSetStartCameraSetting": true,
+		"DefaultCameraSetting":
+		{
+			"DefaultControlMode": "ThirdPersonView",
+			"Pitch": -19.990325927734375,
+			"Yaw": -133.21771240234375,
+			"Distance": 2500
+		},
+		"GravityZ": -980,
+		"EntityAsset": "/Game/VirtualFlow/Tutorials/TutorialProject/Map/Gardens_Example.Gardens_Example",
+		"DefaultSpawnAsset": "/Game/VirtualFlow/Tutorials/TutorialProject/Project/Spawn/GardensSpawn_Mission1_Example.GardensSpawn_Mission1_Example",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]
