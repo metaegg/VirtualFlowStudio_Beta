@@ -1,14 +1,9 @@
 ﻿# T4Framework (Beta Version)
-
-<br />
-<center>The Most Powerful Metaverse Framework for Unreal Engine</center>
-<br />
-<center><img src="https://t4framework.com/img/Epic_MegaGrants_Recipient_logo.png"></center>
-<center>
-    2020 : Awarded "Epic MegaGrant" from Epic Games Inc<br />
-    <a href="https://www.unrealengine.com/en-US/megagrants" target="_blank">unrealengine.com/megagrants</a>
-</center>
-<br />
+## The Most Powerful Metaverse Framework for Unreal Engine
+.
+<p align="center"><img src="https://t4framework.com/img/Epic_MegaGrants_Recipient_logo.png"></p>
+<p align="center"><a href="https://www.unrealengine.com/en-US/megagrants" target="_blank">2020 : Awarded "Epic MegaGrant" from Epic Games Inc</a></p>
+.
 
 ## 크리에이터를 위한 고품질 3D 콘텐츠 제작 지원
 
@@ -23,7 +18,7 @@ T4Framework는 언리얼 엔진의 강력한 기능을 수정 없이 사용하�
 ## 언리얼 엔진 5 얼리엑세스 버전 무료 제공
 
 버추얼플로우(VirtualFlow Inc) 15년 이상의 MMORPG를 개발한 베테랑 엔지니어로 구성된 스타트업으로 
-2년 이상의 개발을 거쳐 언리얼 엔진 5 얼리엑세스 버전에서 일반 사용자도 자유롭게 사용할 수 있는 베타 버전을 공개하였습니다.
+2년 이상의 개발을 거쳐 언리얼 엔진 5 얼리엑세스 버전에서 일반 사용자도 사용할 수 있는 베타 버전을 공개하였습니다.
 이후 언리얼 엔진 4.27 버전 추가 배포와 언리얼 엔진 5 정식 버전 출시에 맞춰 지속적인 업데이트를 계획하고 있습니다.
 
 <center><a href="https://t4framework.com/img/T4Framework_Screenshot.png" target="_blank"><img src="https://t4framework.com/img/T4Framework_Screenshot_Small.png"></a></center>
