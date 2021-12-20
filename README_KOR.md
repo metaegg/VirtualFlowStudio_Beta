@@ -1,7 +1,5 @@
 # VirtualFlow Studio (Beta Version)
 
-## The Most Powerful Metaverse Framework for Unreal Engine
-
 ![Virtualflow_Logo](./Virtualflow_Logo.png)
 
 ## 크리에이터를 위한 고품질 3D 콘텐츠 제작 지원
