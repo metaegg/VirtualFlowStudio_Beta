@@ -1,9 +1,8 @@
-﻿# T4Framework (Beta Version)
+﻿# VirtualFlowStudio Beta Version (T4Framework v1.0a)
+
 ## The Most Powerful Metaverse Framework for Unreal Engine
-.
-<p align="center"><img src="https://t4framework.com/img/Epic_MegaGrants_Recipient_logo.png"></p>
-<p align="center"><a href="https://www.unrealengine.com/en-US/megagrants" target="_blank">2020 : Awarded "Epic MegaGrant" from Epic Games Inc</a></p>
-.
+
+![Virtualflow_Logo](./Virtualflow_Logo.png)
 
 ## 크리에이터를 위한 고품질 3D 콘텐츠 제작 지원
 
@@ -15,6 +14,9 @@ T4Framework는 언리얼 엔진을 활용해 누구나 쉽고 빠르게 고품�
 T4Framework는 언리얼 엔진의 강력한 기능을 수정 없이 사용하면서도 블루프린트 및 C++ 학습 없이도 콘텐츠를 제작할 수 있도록 다양한 개발 툴셋을 제공하며,
 새롭게 구현된 게임 플레이 프레임워크와 네트워크 기능으로 누구나 쉽게 오픈월드 콘텐츠를 구현할 수 있도록 지원합니다.
 
+<p align="center"><img src="https://t4framework.com/img/Epic_MegaGrants_Recipient_logo.png"></p>  
+<p align="center"><a href="https://www.unrealengine.com/en-US/megagrants" target="_blank">2020 : Awarded "Epic MegaGrant" from Epic Games Inc</a></p>  
+
 ## 언리얼 엔진 5 얼리엑세스 버전 무료 제공
 
 버추얼플로우(VirtualFlow Inc) 15년 이상의 MMORPG를 개발한 베테랑 엔지니어로 구성된 스타트업으로 
@@ -23,7 +25,7 @@ T4Framework는 언리얼 엔진의 강력한 기능을 수정 없이 사용하�
 
 <center><a href="https://t4framework.com/img/T4Framework_Screenshot.png" target="_blank"><img src="https://t4framework.com/img/T4Framework_Screenshot_Small.png"></a></center>
 
-## T4Framework 얻기
+## VirtualFlowStudio 얻기
 
 ### 정보
 - T4Framework 버전
