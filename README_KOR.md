@@ -1,4 +1,4 @@
-﻿# VirtualFlowStudio Beta Version (T4Framework v1.0a)
+# VirtualFlow Studio (Beta Version)
 
 ## The Most Powerful Metaverse Framework for Unreal Engine
 
