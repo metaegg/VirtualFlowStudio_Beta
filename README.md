@@ -23,7 +23,7 @@ T4Framework는 언리얼 엔진의 강력한 기능을 수정 없이 사용하�
 
 <center><a href="https://t4framework.com/img/T4Framework_Screenshot.png" target="_blank"><img src="https://t4framework.com/img/T4Framework_Screenshot_Small.png"></a></center>
 
-## VirtualFlowStudio 얻기
+## VirtualFlow Studio
 
 ### 정보
 - T4Framework 버전
