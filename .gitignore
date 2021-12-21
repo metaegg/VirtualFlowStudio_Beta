@@ -35,6 +35,10 @@ Content/TylerJo
 *.out
 *.app
 *.pdb
+*.exe
+*.dll
+*.modules
+*.target
 
 # Windows
 /desktop.ini
@@ -53,8 +57,10 @@ Content/TylerJo
 *.cs
 *.orig
 *.db
+*.7z
 /*.sln
 .vs
+INPUT.md
 Binaries/Win64/*.exe
 Content/VirtualFlow/UserData/UserProject/T4UserProjectsSetting.t4proj
 Content/VirtualFlow/StagingData/

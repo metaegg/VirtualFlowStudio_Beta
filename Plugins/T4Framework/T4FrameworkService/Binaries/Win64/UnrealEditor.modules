@@ -1,8 +1,0 @@
-{
-	"BuildId": "16433597",
-	"Modules": 
-	{
-		"T4LobbyServerService": "UnrealEditor-T4LobbyServerService.dll",
-		"T4WorldServerService": "UnrealEditor-T4WorldServerService.dll"
-	}
-}
