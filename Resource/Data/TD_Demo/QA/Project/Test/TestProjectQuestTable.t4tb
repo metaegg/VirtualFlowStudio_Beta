@@ -22,5 +22,29 @@
 		"FolderName": "None",
 		"bPinned": true,
 		"ParentRowName": "None"
+	},
+	{
+		"Name": "NewDBKeyName",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_NewDBKeyName_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/TD_Demo/QA/Project/Test/Quest/TestQuest1_2.TestQuest1_2",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
 	}
 ]

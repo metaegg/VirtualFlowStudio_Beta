@@ -127,7 +127,7 @@
 			"EditSourceString": "",
 			"EditPortraitName": "None",
 			"Type": "Text",
-			"RowName": "NPC_PlayerEventTriggerZone_Name",
+			"RowName": "NPC_PlayerEventTriggerZone_Name_1",
 			"ValidationResult": "CheckIt"
 		},
 		"RaceName": "Human",

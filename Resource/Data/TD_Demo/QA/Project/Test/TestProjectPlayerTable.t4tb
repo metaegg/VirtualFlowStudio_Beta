@@ -76,7 +76,7 @@
 		"DefaultItemPackDBKey":
 		{
 			"Type": "ItemPack",
-			"RowName": "None",
+			"RowName": "NewDBKeyName",
 			"ValidationResult": "CheckIt"
 		},
 		"EntityAsset": "/Game/VirtualFlow/Tutorials/TutorialProject/Character/Main/MainCharacter_Example.MainCharacter_Example",
