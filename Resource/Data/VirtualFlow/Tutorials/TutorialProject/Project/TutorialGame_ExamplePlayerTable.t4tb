@@ -43,7 +43,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "MainCharacter_PC_Stat",
+			"RowName": "MainPlayer_PC_Stat",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":

@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "PC",
-		"Version": 1,
+		"Version": 4,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -79,7 +79,7 @@
 	},
 	{
 		"Name": "Unarmed",
-		"Version": 1,
+		"Version": 4,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -157,7 +157,7 @@
 	},
 	{
 		"Name": "Rifle_AR4",
-		"Version": 1,
+		"Version": 4,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",

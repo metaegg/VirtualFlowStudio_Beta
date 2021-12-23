@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "Modular_Default_Set",
-		"Version": 0,
+		"Version": 2,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -49,7 +49,7 @@
 	},
 	{
 		"Name": "Modular_Torso_Red",
-		"Version": 0,
+		"Version": 2,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -97,7 +97,7 @@
 	},
 	{
 		"Name": "Modular_Torso_Yellow",
-		"Version": 0,
+		"Version": 2,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -145,7 +145,7 @@
 	},
 	{
 		"Name": "Modular_Pants_Red",
-		"Version": 0,
+		"Version": 2,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -193,7 +193,7 @@
 	},
 	{
 		"Name": "Modular_Pants_Orange",
-		"Version": 0,
+		"Version": 2,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -241,7 +241,7 @@
 	},
 	{
 		"Name": "Modular_Gloves_Red",
-		"Version": 0,
+		"Version": 2,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -289,7 +289,7 @@
 	},
 	{
 		"Name": "Modular_Boots_Red",
-		"Version": 0,
+		"Version": 2,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -337,7 +337,7 @@
 	},
 	{
 		"Name": "Modular_Head_Red",
-		"Version": 0,
+		"Version": 2,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -385,7 +385,7 @@
 	},
 	{
 		"Name": "Modular_Head_Gray",
-		"Version": 0,
+		"Version": 2,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",

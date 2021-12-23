@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "MainCharacter_PC_Stat",
+		"Name": "MainPlayer_PC_Stat",
 		"Version": 0,
 		"StatCategory": "Player",
 		"StatItemCategory": "Weapon",
