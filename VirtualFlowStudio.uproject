@@ -27,51 +27,6 @@
 			"Name": "Niagara",
 			"Enabled": false
 		},
-		{
-			"Name": "EditorTests",
-			"Enabled": true
-		},
-		{
-			"Name": "FunctionalTestingEditor",
-			"Enabled": true
-		},
-		{
-			"Name": "RuntimeTests",
-			"Enabled": true
-		},
-		{
-			"Name": "EditorScriptingUtilities",
-			"Enabled": true
-		},
-		{
-			"Name": "PythonScriptPlugin",
-			"Enabled": true
-		},
-		{
-			"Name": "SequencerScripting",
-			"Enabled": true
-		},
-		{
-			"Name": "WebBrowserWidget",
-			"Enabled": true
-		},
-		{
-			"Name": "SQLiteCore",
-			"Enabled": true
-		},
-		{
-			"Name": "SQLiteSupport",
-			"Enabled": true
-		},
-		{
-			"Name": "MegascansPlugin",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
-		}
 	],
 	"TargetPlatforms": [
 		"Windows",

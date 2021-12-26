@@ -47,11 +47,6 @@
 			"LoadingPhase": "PostEngineInit"
 		},
 		{
-			"Name": "T4ActionSequencer",
-			"Type": "Editor",
-			"LoadingPhase": "PostEngineInit"
-		},
-		{
 			"Name": "T4ActionEditor",
 			"Type": "Editor",
 			"LoadingPhase": "PostEngineInit"

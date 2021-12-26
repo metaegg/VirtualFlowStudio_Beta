@@ -1,16 +1,16 @@
-# VirtualFlow Studio (Beta Version)
+# VirtualFlow Studio (Beta Version) - WIP
 
 ![Virtualflow_Logo](./Virtualflow_Logo.png)
 
 ## 크리에이터를 위한 고품질 3D 콘텐츠 제작 지원
 
-VirtualFlow는 언리얼 엔진을 활용해 누구나 쉽고 빠르게 고품질의 3D 콘텐츠를 개발할 수 있는 최적의 메타버스 개발 솔루션을 제공합니다.
+"VirtualFlow"는 언리얼 엔진을 활용해 누구나 쉽고 빠르게 고품질의 3D 콘텐츠를 개발할 수 있는 최적의 메타버스 개발 솔루션을 제공합니다.
 우리는 원하는 모두가 기술적 장벽 없이 다양한 콘텐츠의 개발에 자유롭게 참여하여 현실과 가상 세계의 경계를 잇는 디지털 크리에이터가 될 수 있는 미래를 만들고자 합니다.
 
 ## 완전히 새롭게 구현된 게임 프레임워크와 툴셋, 그리고 서버 솔루션 지원
 
-VirtualFlow Studio는 언리얼 엔진의 강력한 기능을 수정 없이 사용하면서도 블루프린트 및 C++ 학습 없이도 콘텐츠를 제작할 수 있도록 다양한 개발 툴셋을 제공하며,
-새롭게 구현된 게임 플레이 프레임워크와 네트워크 기능으로 누구나 쉽게 오픈월드 콘텐츠를 구현할 수 있도록 지원합니다.
+"VirtualFlow Studio"는 언리얼 엔진의 강력한 기능을 수정 없이 사용하면서도 블루프린트 및 C++ 학습 없이도 콘텐츠를 제작할 수 있도록 다양한 통합 개발 환경으로
+"T4Framework" 플러그인 기반의 완전히 새롭게 구현된 게임 플레이 프레임워크와 멀티플레이어 그리고 다양한 개발 툴셋을 제공해 누구나 쉽게 오픈월드 콘텐츠를 구현할 수 있도록 지원합니다.
 
 <p align="center"><img src="https://t4framework.com/img/Epic_MegaGrants_Recipient_logo.png"></p>  
 <p align="center"><a href="https://www.unrealengine.com/en-US/megagrants" target="_blank">2020 : Awarded "Epic MegaGrant" from Epic Games Inc</a></p>  
@@ -19,7 +19,7 @@ VirtualFlow Studio는 언리얼 엔진의 강력한 기능을 수정 없이 사�
 
 VirtualFlow 개발진은 15년 이상의 MMORPG를 개발한 베테랑 엔지니어로 구성된 스타트업으로 
 2년 이상의 개발을 거쳐 언리얼 엔진 5 얼리엑세스 버전에서 일반 사용자도 사용할 수 있는 베타 버전을 공개하였습니다.
-이후 언리얼 엔진 4.27 버전 추가 배포와 언리얼 엔진 5 정식 버전 출시에 맞춰 지속적인 업데이트를 계획하고 있습니다.
+이후 언리얼 엔진 4.27 버전 배포와 언리얼 엔진 5 정식 버전 출시에 맞춰 지속적인 업데이트를 계획하고 있습니다.
 
 <center><a href="https://t4framework.com/img/T4Framework_Screenshot.png" target="_blank"><img src="https://t4framework.com/img/T4Framework_Screenshot_Small.png"></a></center>
 
