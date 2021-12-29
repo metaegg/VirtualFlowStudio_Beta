@@ -29,7 +29,7 @@
 - Supported Platform
   - Windows 64bit
 - License
-  - Unreal Engine 5 Early Access 버전 무료
+  - FREE ("Unreal Engine 5 Early Access" Version)
 - Showcase
   - <a href="https://t4framework.com/Showcase/" target="_blank">https://t4framework.com/Showcase</a>
 - Assets you need to download to follow along the tutorials (Free Assets)
