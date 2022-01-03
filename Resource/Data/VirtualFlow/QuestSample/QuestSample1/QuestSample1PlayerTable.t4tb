@@ -43,7 +43,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "None",
+			"RowName": "QuestPlayer",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":
@@ -58,7 +58,7 @@
 		"MainWeaponDBKey":
 		{
 			"Type": "Weapon",
-			"RowName": "None",
+			"RowName": "Rifle_AR4",
 			"ValidationResult": "CheckIt"
 		},
 		"MountAWeaponDBKey":
@@ -79,16 +79,16 @@
 			"RowName": "None",
 			"ValidationResult": "CheckIt"
 		},
-		"EntityAsset": "/Game/VirtualFlow/DemoProjects/Assets/Entity/Character/AnimStarterPack/Soldier23/Soldier23.Soldier23",
+		"EntityAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/Soldier23.Soldier23",
 		"FullbodySkinName": "None",
 		"ReactionData":
 		{
-			"ReactionTemplate": "None",
-			"HitActionPackAsset": "None",
-			"KnockbackActionPackAsset": "None",
-			"StunActionPackAsset": "None",
-			"AirborneActionPackAsset": "None",
-			"DieActionPackAsset": "None",
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_HitReact_ActionPack.Soldier23_HitReact_ActionPack",
+			"KnockbackActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Knockback_ActionPack.Soldier23_Knockback_ActionPack",
+			"StunActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Stun_ActionPack.Soldier23_Stun_ActionPack",
+			"AirborneActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Airborne_ActionPack.Soldier23_Airborne_ActionPack",
+			"DieActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Die_ActionPack.Soldier23_Die_ActionPack",
 			"ResurrectActionPackAsset": "None",
 			"SprintStartActionPackAsset": "None",
 			"SprintEndActionPackAsset": "None",

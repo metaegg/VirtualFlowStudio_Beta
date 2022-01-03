@@ -8,7 +8,7 @@
 			"EditSourceString": "",
 			"EditPortraitName": "None",
 			"Type": "Text",
-			"RowName": "None",
+			"RowName": "Quest_Quest1_Title_1",
 			"ValidationResult": "CheckIt"
 		},
 		"QuestTarget": "All",

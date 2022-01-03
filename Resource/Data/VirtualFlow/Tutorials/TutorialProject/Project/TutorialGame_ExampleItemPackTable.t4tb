@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "MainCharacterEnemyDeathReward",
-		"Version": 0,
+		"Version": 1,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -23,11 +23,23 @@
 		"ItemPackageDatas": [
 			{
 				"ItemCategory": "Goods",
+				"ItemDBKey":
+				{
+					"Type": "Goods",
+					"RowName": "SpeedUpPotion",
+					"ValidationResult": "CheckIt"
+				},
 				"ItemDBKeyName": "SpeedUpPotion",
 				"ItemCount": 3
 			},
 			{
 				"ItemCategory": "Goods",
+				"ItemDBKey":
+				{
+					"Type": "Goods",
+					"RowName": "HpRecoveryPotion",
+					"ValidationResult": "CheckIt"
+				},
 				"ItemDBKeyName": "HpRecoveryPotion",
 				"ItemCount": 1
 			}
@@ -41,7 +53,7 @@
 	},
 	{
 		"Name": "TutorialGameReward",
-		"Version": 0,
+		"Version": 1,
 		"NameTextDBKey":
 		{
 			"TextCategory": "Name",
@@ -63,11 +75,23 @@
 		"ItemPackageDatas": [
 			{
 				"ItemCategory": "Weapon",
+				"ItemDBKey":
+				{
+					"Type": "Weapon",
+					"RowName": "MagicalRing",
+					"ValidationResult": "CheckIt"
+				},
 				"ItemDBKeyName": "MagicalRing",
 				"ItemCount": 1
 			},
 			{
 				"ItemCategory": "Goods",
+				"ItemDBKey":
+				{
+					"Type": "Goods",
+					"RowName": "HpRecoveryPotion",
+					"ValidationResult": "CheckIt"
+				},
 				"ItemDBKeyName": "HpRecoveryPotion",
 				"ItemCount": 5
 			}

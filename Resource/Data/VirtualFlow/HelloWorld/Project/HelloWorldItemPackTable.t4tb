@@ -1,0 +1,54 @@
+[
+	{
+		"Name": "RewardExample",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"PaymentType": "Inventory",
+		"ItemDropRange": 100,
+		"ItemPackStatDBKey":
+		{
+			"StatCategory": "ItemPack",
+			"Type": "Stat",
+			"RowName": "RewardExampleItemStat",
+			"ValidationResult": "CheckIt"
+		},
+		"ItemPackageDatas": [
+			{
+				"ItemCategory": "Weapon",
+				"ItemDBKey":
+				{
+					"Type": "Weapon",
+					"RowName": "Unarmed",
+					"ValidationResult": "CheckIt"
+				},
+				"ItemDBKeyName": "Unarmed",
+				"ItemCount": 1
+			},
+			{
+				"ItemCategory": "Costume",
+				"ItemDBKey":
+				{
+					"Type": "Costume",
+					"RowName": "Modular_Default_Set",
+					"ValidationResult": "CheckIt"
+				},
+				"ItemDBKeyName": "Modular_Default_Set",
+				"ItemCount": 1
+			}
+		],
+		"MainEntityAsset": "None",
+		"TakeActionPackAsset": "None",
+		"MainPortraitName": "Default",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

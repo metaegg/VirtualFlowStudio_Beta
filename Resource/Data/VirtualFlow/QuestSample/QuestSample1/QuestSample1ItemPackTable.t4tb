@@ -1,1 +1,54 @@
-[]
+[
+	{
+		"Name": "TutorialGameReward",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "ItemPack_TutorialGameReward_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"PaymentType": "Inventory",
+		"ItemDropRange": 100,
+		"ItemPackStatDBKey":
+		{
+			"StatCategory": "ItemPack",
+			"Type": "Stat",
+			"RowName": "TutorialMission_Rate",
+			"ValidationResult": "CheckIt"
+		},
+		"ItemPackageDatas": [
+			{
+				"ItemCategory": "Weapon",
+				"ItemDBKey":
+				{
+					"Type": "Weapon",
+					"RowName": "MagicalRing",
+					"ValidationResult": "CheckIt"
+				},
+				"ItemDBKeyName": "MagicalRing",
+				"ItemCount": 1
+			},
+			{
+				"ItemCategory": "Goods",
+				"ItemDBKey":
+				{
+					"Type": "Goods",
+					"RowName": "HpRecoveryBarrel",
+					"ValidationResult": "CheckIt"
+				},
+				"ItemDBKeyName": "HpRecoveryBarrel",
+				"ItemCount": 5
+			}
+		],
+		"MainEntityAsset": "/Game/VirtualFlow/Tutorials/TutorialProject/Weapon/Weapon_MagicalRing_Example.Weapon_MagicalRing_Example",
+		"TakeActionPackAsset": "None",
+		"MainPortraitName": "Default",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]
