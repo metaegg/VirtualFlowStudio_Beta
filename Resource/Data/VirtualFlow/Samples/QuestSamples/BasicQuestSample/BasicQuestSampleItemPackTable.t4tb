@@ -1,0 +1,43 @@
+[
+	{
+		"Name": "Reward",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Reward_Reward_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"PaymentType": "Inventory",
+		"ItemDropRange": 100,
+		"ItemPackStatDBKey":
+		{
+			"StatCategory": "ItemPack",
+			"Type": "Stat",
+			"RowName": "RewardDropRate",
+			"ValidationResult": "CheckIt"
+		},
+		"ItemPackageDatas": [
+			{
+				"ItemCategory": "Goods",
+				"ItemDBKey":
+				{
+					"Type": "Goods",
+					"RowName": "SpeedUpPotion",
+					"ValidationResult": "CheckIt"
+				},
+				"ItemDBKeyName": "None",
+				"ItemCount": 2
+			}
+		],
+		"MainEntityAsset": "/Game/VirtualFlow/Tutorials/TutorialProject/Item/GreenPotion_Example.GreenPotion_Example",
+		"TakeActionPackAsset": "None",
+		"MainPortraitName": "Default",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

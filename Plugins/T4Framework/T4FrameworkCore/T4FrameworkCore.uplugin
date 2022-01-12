@@ -24,22 +24,22 @@
 		{
 			"Name": "T4Engine",
 			"Type": "Runtime",
-			"LoadingPhase": "PreDefault"
+			"LoadingPhase": "Default"
 		},
 		{
 			"Name": "T4Framework",
 			"Type": "Runtime",
-			"LoadingPhase": "PreDefault"
+			"LoadingPhase": "Default"
 		},
 		{
 			"Name": "T4GameData",
 			"Type": "Runtime",
-			"LoadingPhase": "PreDefault"
+			"LoadingPhase": "Default"
 		},
 		{
 			"Name": "T4Gameplay",
 			"Type": "Runtime",
-			"LoadingPhase": "PostDefault"
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [

@@ -1,1 +1,16 @@
-[]
+[
+	{
+		"Name": "Weapon_T4DefaultRifle_Name",
+		"Version": 0,
+		"StringVersion": 1,
+		"SourceString": "DefaultRifle",
+		"ENG_StringVersion": 0,
+		"ENG_SourceString": "",
+		"PortraitName": "None",
+		"bLookAt": false,
+		"TextCategory": "Name",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

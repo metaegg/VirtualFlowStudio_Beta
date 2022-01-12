@@ -1,0 +1,26 @@
+[
+	{
+		"Name": "Quest1",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_Quest1_Title_1",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/QuestSample1/Quest/QF_QuestSample1_1.QF_QuestSample1_1",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

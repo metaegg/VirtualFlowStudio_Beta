@@ -17,12 +17,17 @@
 	"Installed": false,
 	"Modules": [
 		{
-			"Name": "T4Commandlet",
-			"Type": "Editor",
-			"LoadingPhase": "PostDefault"
+			"Name": "T4EditorDeveloper",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "PreDefault"
 		},
 		{
 			"Name": "T4CommandletAsset",
+			"Type": "Editor",
+			"LoadingPhase": "PreDefault"
+		},
+		{
+			"Name": "T4Commandlet",
 			"Type": "Editor",
 			"LoadingPhase": "PostDefault"
 		},

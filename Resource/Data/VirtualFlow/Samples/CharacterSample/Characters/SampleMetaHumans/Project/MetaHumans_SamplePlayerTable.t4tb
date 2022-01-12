@@ -1,0 +1,1602 @@
+[
+	{
+		"Name": "PC_MetaHuman_Ada",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_PC_MetaHuman_Ada_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "Human",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1,
+				"DurationSec": 0,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "QuestPlayer",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Rifle_AR4",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Characters/SampleMetaHumans/Entity/Character/Ada.Ada",
+		"FullbodySkinName": "None",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_HitReact_ActionPack.Soldier23_HitReact_ActionPack",
+			"KnockbackActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Knockback_ActionPack.Soldier23_Knockback_ActionPack",
+			"StunActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Stun_ActionPack.Soldier23_Stun_ActionPack",
+			"AirborneActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Airborne_ActionPack.Soldier23_Airborne_ActionPack",
+			"DieActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Die_ActionPack.Soldier23_Die_ActionPack",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "PC_MetaHuman_Amelia",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_PC_MetaHuman_Amelia_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "Human",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1,
+				"DurationSec": 0,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "QuestPlayer",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Rifle_AR4",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Characters/SampleMetaHumans/Entity/Character/Amelia.Amelia",
+		"FullbodySkinName": "None",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_HitReact_ActionPack.Soldier23_HitReact_ActionPack",
+			"KnockbackActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Knockback_ActionPack.Soldier23_Knockback_ActionPack",
+			"StunActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Stun_ActionPack.Soldier23_Stun_ActionPack",
+			"AirborneActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Airborne_ActionPack.Soldier23_Airborne_ActionPack",
+			"DieActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Die_ActionPack.Soldier23_Die_ActionPack",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "PC_MetaHuman_Aoi",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_PC_MetaHuman_Aoi_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "Human",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1,
+				"DurationSec": 0,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "QuestPlayer",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Rifle_AR4",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Characters/SampleMetaHumans/Entity/Character/Aoi.Aoi",
+		"FullbodySkinName": "None",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_HitReact_ActionPack.Soldier23_HitReact_ActionPack",
+			"KnockbackActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Knockback_ActionPack.Soldier23_Knockback_ActionPack",
+			"StunActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Stun_ActionPack.Soldier23_Stun_ActionPack",
+			"AirborneActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Airborne_ActionPack.Soldier23_Airborne_ActionPack",
+			"DieActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Die_ActionPack.Soldier23_Die_ActionPack",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "PC_MetaHuman_Bernice",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_PC_MetaHuman_Bernice_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "Human",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1,
+				"DurationSec": 0,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "QuestPlayer",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Rifle_AR4",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Characters/SampleMetaHumans/Entity/Character/Bernice.Bernice",
+		"FullbodySkinName": "None",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_HitReact_ActionPack.Soldier23_HitReact_ActionPack",
+			"KnockbackActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Knockback_ActionPack.Soldier23_Knockback_ActionPack",
+			"StunActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Stun_ActionPack.Soldier23_Stun_ActionPack",
+			"AirborneActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Airborne_ActionPack.Soldier23_Airborne_ActionPack",
+			"DieActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Die_ActionPack.Soldier23_Die_ActionPack",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "PC_MetaHuman_Bes",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_PC_MetaHuman_Bes_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "Human",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1,
+				"DurationSec": 0,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "QuestPlayer",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Rifle_AR4",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Characters/SampleMetaHumans/Entity/Character/Bes.Bes",
+		"FullbodySkinName": "None",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_HitReact_ActionPack.Soldier23_HitReact_ActionPack",
+			"KnockbackActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Knockback_ActionPack.Soldier23_Knockback_ActionPack",
+			"StunActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Stun_ActionPack.Soldier23_Stun_ActionPack",
+			"AirborneActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Airborne_ActionPack.Soldier23_Airborne_ActionPack",
+			"DieActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Die_ActionPack.Soldier23_Die_ActionPack",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "PC_MetaHuman_Bryan",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_PC_MetaHuman_Bryan_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "Human",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1,
+				"DurationSec": 0,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "QuestPlayer",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Rifle_AR4",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Characters/SampleMetaHumans/Entity/Character/Bryan.Bryan",
+		"FullbodySkinName": "None",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_HitReact_ActionPack.Soldier23_HitReact_ActionPack",
+			"KnockbackActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Knockback_ActionPack.Soldier23_Knockback_ActionPack",
+			"StunActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Stun_ActionPack.Soldier23_Stun_ActionPack",
+			"AirborneActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Airborne_ActionPack.Soldier23_Airborne_ActionPack",
+			"DieActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Die_ActionPack.Soldier23_Die_ActionPack",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "PC_MetaHuman_Chandra",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_PC_MetaHuman_Chandra_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "Human",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1,
+				"DurationSec": 0,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "QuestPlayer",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Rifle_AR4",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Characters/SampleMetaHumans/Entity/Character/Chandra.Chandra",
+		"FullbodySkinName": "None",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_HitReact_ActionPack.Soldier23_HitReact_ActionPack",
+			"KnockbackActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Knockback_ActionPack.Soldier23_Knockback_ActionPack",
+			"StunActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Stun_ActionPack.Soldier23_Stun_ActionPack",
+			"AirborneActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Airborne_ActionPack.Soldier23_Airborne_ActionPack",
+			"DieActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Die_ActionPack.Soldier23_Die_ActionPack",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "PC_MetaHuman_Cooper",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_PC_MetaHuman_Cooper_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "Human",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1,
+				"DurationSec": 0,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "QuestPlayer",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Rifle_AR4",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Characters/SampleMetaHumans/Entity/Character/Cooper.Cooper",
+		"FullbodySkinName": "None",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_HitReact_ActionPack.Soldier23_HitReact_ActionPack",
+			"KnockbackActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Knockback_ActionPack.Soldier23_Knockback_ActionPack",
+			"StunActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Stun_ActionPack.Soldier23_Stun_ActionPack",
+			"AirborneActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Airborne_ActionPack.Soldier23_Airborne_ActionPack",
+			"DieActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Die_ActionPack.Soldier23_Die_ActionPack",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "PC_MetaHuman_Danielle",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_PC_MetaHuman_Danielle_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "Human",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1,
+				"DurationSec": 0,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "QuestPlayer",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Rifle_AR4",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Characters/SampleMetaHumans/Entity/Character/Danielle.Danielle",
+		"FullbodySkinName": "None",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_HitReact_ActionPack.Soldier23_HitReact_ActionPack",
+			"KnockbackActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Knockback_ActionPack.Soldier23_Knockback_ActionPack",
+			"StunActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Stun_ActionPack.Soldier23_Stun_ActionPack",
+			"AirborneActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Airborne_ActionPack.Soldier23_Airborne_ActionPack",
+			"DieActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Die_ActionPack.Soldier23_Die_ActionPack",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "PC_MetaHuman_Dhruv",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_PC_MetaHuman_Dhruv_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "Human",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1,
+				"DurationSec": 0,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "QuestPlayer",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Rifle_AR4",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Characters/SampleMetaHumans/Entity/Character/Dhruv.Dhruv",
+		"FullbodySkinName": "None",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_HitReact_ActionPack.Soldier23_HitReact_ActionPack",
+			"KnockbackActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Knockback_ActionPack.Soldier23_Knockback_ActionPack",
+			"StunActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Stun_ActionPack.Soldier23_Stun_ActionPack",
+			"AirborneActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Airborne_ActionPack.Soldier23_Airborne_ActionPack",
+			"DieActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Die_ActionPack.Soldier23_Die_ActionPack",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "PC_MetaHuman_Emanuel",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_PC_MetaHuman_Emanuel_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "Human",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1,
+				"DurationSec": 0,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "QuestPlayer",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Rifle_AR4",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Characters/SampleMetaHumans/Entity/Character/Emanuel.Emanuel",
+		"FullbodySkinName": "None",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_HitReact_ActionPack.Soldier23_HitReact_ActionPack",
+			"KnockbackActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Knockback_ActionPack.Soldier23_Knockback_ActionPack",
+			"StunActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Stun_ActionPack.Soldier23_Stun_ActionPack",
+			"AirborneActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Airborne_ActionPack.Soldier23_Airborne_ActionPack",
+			"DieActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Die_ActionPack.Soldier23_Die_ActionPack",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "PC_MetaHuman_Emory",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_PC_MetaHuman_Emory_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "Human",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1,
+				"DurationSec": 0,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "QuestPlayer",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Rifle_AR4",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Characters/SampleMetaHumans/Entity/Character/Emory.Emory",
+		"FullbodySkinName": "None",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_HitReact_ActionPack.Soldier23_HitReact_ActionPack",
+			"KnockbackActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Knockback_ActionPack.Soldier23_Knockback_ActionPack",
+			"StunActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Stun_ActionPack.Soldier23_Stun_ActionPack",
+			"AirborneActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Airborne_ActionPack.Soldier23_Airborne_ActionPack",
+			"DieActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Die_ActionPack.Soldier23_Die_ActionPack",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "PC_MetaHuman_Ettore",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_PC_MetaHuman_Ettore_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "Human",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1,
+				"DurationSec": 0,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "QuestPlayer",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Rifle_AR4",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Characters/SampleMetaHumans/Entity/Character/Ettore.Ettore",
+		"FullbodySkinName": "None",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_HitReact_ActionPack.Soldier23_HitReact_ActionPack",
+			"KnockbackActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Knockback_ActionPack.Soldier23_Knockback_ActionPack",
+			"StunActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Stun_ActionPack.Soldier23_Stun_ActionPack",
+			"AirborneActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Airborne_ActionPack.Soldier23_Airborne_ActionPack",
+			"DieActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Die_ActionPack.Soldier23_Die_ActionPack",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "PC_MetaHuman_Gavin",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_PC_MetaHuman_Gavin_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "Human",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1,
+				"DurationSec": 0,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "QuestPlayer",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Rifle_AR4",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Characters/SampleMetaHumans/Entity/Character/Gavin.Gavin",
+		"FullbodySkinName": "None",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_HitReact_ActionPack.Soldier23_HitReact_ActionPack",
+			"KnockbackActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Knockback_ActionPack.Soldier23_Knockback_ActionPack",
+			"StunActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Stun_ActionPack.Soldier23_Stun_ActionPack",
+			"AirborneActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Airborne_ActionPack.Soldier23_Airborne_ActionPack",
+			"DieActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Die_ActionPack.Soldier23_Die_ActionPack",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "PC_MetaHuman_Glenda",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_PC_MetaHuman_Glenda_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "Human",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1,
+				"DurationSec": 0,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "QuestPlayer",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Rifle_AR4",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Characters/SampleMetaHumans/Entity/Character/Glenda.Glenda",
+		"FullbodySkinName": "None",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_HitReact_ActionPack.Soldier23_HitReact_ActionPack",
+			"KnockbackActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Knockback_ActionPack.Soldier23_Knockback_ActionPack",
+			"StunActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Stun_ActionPack.Soldier23_Stun_ActionPack",
+			"AirborneActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Airborne_ActionPack.Soldier23_Airborne_ActionPack",
+			"DieActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Die_ActionPack.Soldier23_Die_ActionPack",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "PC_MetaHuman_Hadley",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_PC_MetaHuman_Hadley_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "Human",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1,
+				"DurationSec": 0,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "QuestPlayer",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Rifle_AR4",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/Samples/CharacterSample/Characters/SampleMetaHumans/Entity/Character/Hadley.Hadley",
+		"FullbodySkinName": "None",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_HitReact_ActionPack.Soldier23_HitReact_ActionPack",
+			"KnockbackActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Knockback_ActionPack.Soldier23_Knockback_ActionPack",
+			"StunActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Stun_ActionPack.Soldier23_Stun_ActionPack",
+			"AirborneActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Airborne_ActionPack.Soldier23_Airborne_ActionPack",
+			"DieActionPackAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/ActionPack/Soldier23_Die_ActionPack.Soldier23_Die_ActionPack",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

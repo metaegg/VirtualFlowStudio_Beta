@@ -1,0 +1,125 @@
+[
+	{
+		"Name": "BasicQuestSampleWorld",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "World_BasicQuestSampleWorld_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"WorldTimeTag": "Day",
+		"WorldTimeScale": 1,
+		"DefaultPlayerLocation":
+		{
+			"X": -241.48757934570312,
+			"Y": -511.17623901367188,
+			"Z": -0.899810791015625
+		},
+		"DefaultPlayerRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 2.7096378803253174,
+			"Roll": 0
+		},
+		"bSetStartCameraSetting": true,
+		"DefaultCameraSetting":
+		{
+			"DefaultControlMode": "ThirdPersonView",
+			"Pitch": -11.109619140625,
+			"Yaw": -3.076141357421875,
+			"Distance": 771.06439208984375
+		},
+		"GravityZ": -980,
+		"EntityAsset": "/Game/VirtualFlow/QuestSample/Assets/Map/QuestSampleMapEntity_Basic.QuestSampleMapEntity_Basic",
+		"DefaultSpawnAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Spawn/QuestStart_Interact.QuestStart_Interact",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "QuestSampleWorld",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "World_QuestSampleWorld_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"WorldTimeTag": "Day",
+		"WorldTimeScale": 1,
+		"DefaultPlayerLocation":
+		{
+			"X": -241.48757934570312,
+			"Y": -511.17623901367188,
+			"Z": -0.899810791015625
+		},
+		"DefaultPlayerRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 2.7096378803253174,
+			"Roll": 0
+		},
+		"bSetStartCameraSetting": true,
+		"DefaultCameraSetting":
+		{
+			"DefaultControlMode": "ThirdPersonView",
+			"Pitch": -11.109619140625,
+			"Yaw": -3.076141357421875,
+			"Distance": 771.06439208984375
+		},
+		"GravityZ": -980,
+		"EntityAsset": "/Game/VirtualFlow/QuestSample/Assets/Map/QuestSampleMapEntity.QuestSampleMapEntity",
+		"DefaultSpawnAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Spawn/QuestStart_Interact.QuestStart_Interact",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "QuestSampleWorld2",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "World_QuestSampleWorld2_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"WorldTimeTag": "Day",
+		"WorldTimeScale": 1,
+		"DefaultPlayerLocation":
+		{
+			"X": -365.02700805664062,
+			"Y": -119.62110137939453,
+			"Z": -0.98067474365234375
+		},
+		"DefaultPlayerRotation":
+		{
+			"Pitch": 0,
+			"Yaw": 0,
+			"Roll": 0
+		},
+		"bSetStartCameraSetting": true,
+		"DefaultCameraSetting":
+		{
+			"DefaultControlMode": "ThirdPersonView",
+			"Pitch": -12.2353515625,
+			"Yaw": -3.826171875,
+			"Distance": 771.06439208984375
+		},
+		"GravityZ": -980,
+		"EntityAsset": "/Game/VirtualFlow/Samples/QuestSamples/Assets/Map/QuestSampleMapEntity2.QuestSampleMapEntity2",
+		"DefaultSpawnAsset": "None",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

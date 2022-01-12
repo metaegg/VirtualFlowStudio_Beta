@@ -7,7 +7,7 @@
 		{
 			"Name": "VirtualFlowStudio",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "PostDefault"
 		}
 	],
 	"Plugins": [

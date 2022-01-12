@@ -1,0 +1,1014 @@
+[
+	{
+		"Name": "W_DefaultAttackEffect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_W_Hit_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Hit",
+			"HitDelayTimeSec": 0.10000000149011612,
+			"DurationSec": 0.80000001192092896,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "/Game/VirtualFlow/DemoProjects/CharacterDemo/Effects/ETC/SampleDefaultHitEffect.SampleDefaultHitEffect",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Warrior"
+	},
+	{
+		"Name": "W_BlockEffect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_W_BlockEffect_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Status",
+			"HitDelayTimeSec": 0,
+			"DurationSec": 0.52999997138977051,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "None",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Warrior"
+	},
+	{
+		"Name": "W_Combo1Effect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_W_Combo1AttackHit_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Hit",
+			"HitDelayTimeSec": 0.20000000298023224,
+			"DurationSec": 0.87000000476837158,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "/Game/VirtualFlow/DemoProjects/CharacterDemo/Effects/ETC/SampleDefaultHitEffect.SampleDefaultHitEffect",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Warrior"
+	},
+	{
+		"Name": "W_Combo2Effect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_W_Combo2Effect_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Hit",
+			"HitDelayTimeSec": 0.40000000596046448,
+			"DurationSec": 1.2699999809265137,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "StunEffect",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "/Game/VirtualFlow/DemoProjects/CharacterDemo/Effects/ETC/SampleDefaultHitEffect.SampleDefaultHitEffect",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Warrior"
+	},
+	{
+		"Name": "W_Combo2AreaEffect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_W_Combo2AreaEffect_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Area",
+			"HitDelayTimeSec": 0,
+			"DurationSec": 0,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 1000,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "W_Combo2Effect",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "/Game/VirtualFlow/DemoProjects/CharacterDemo/Effects/ETC/SampleDefaultHitEffect.SampleDefaultHitEffect",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Warrior"
+	},
+	{
+		"Name": "W_Combo3Effect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_W_Combo3Effect_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Hit",
+			"HitDelayTimeSec": 0.30000001192092896,
+			"DurationSec": 1.0700000524520874,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "/Game/VirtualFlow/DemoProjects/CharacterDemo/Effects/ETC/SampleDefaultHitEffect.SampleDefaultHitEffect",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Warrior"
+	},
+	{
+		"Name": "Warrior",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Hit",
+			"HitDelayTimeSec": 0,
+			"DurationSec": 0,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "None",
+		"FolderName": "Warrior",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "NewDBKeyName",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Hit",
+			"HitDelayTimeSec": 0,
+			"DurationSec": 0,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "None",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Warrior"
+	},
+	{
+		"Name": "Magician",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Hit",
+			"HitDelayTimeSec": 0,
+			"DurationSec": 0,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "None",
+		"FolderName": "Magician",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "Commoon",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Hit",
+			"HitDelayTimeSec": 0,
+			"DurationSec": 0,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "None",
+		"FolderName": "Commoon",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "StunEffect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_NewDBKeyName_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Stun",
+			"HitDelayTimeSec": 0,
+			"DurationSec": 2,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "None",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Commoon"
+	},
+	{
+		"Name": "M_DefaultAttackEffect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_M_DefaultAttackEffect_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Hit",
+			"HitDelayTimeSec": 0.20000000298023224,
+			"DurationSec": 0.80000001192092896,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "None",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Magician"
+	},
+	{
+		"Name": "M_TeleportEffect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_M_TeleportEffect_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "SimplePlay",
+			"HitDelayTimeSec": 0,
+			"DurationSec": 0.87000000476837158,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": true,
+			"MovementData":
+			{
+				"MoveAngleType": "Front",
+				"MoveMaxDistance": 1000,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 2000
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "None",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Magician"
+	},
+	{
+		"Name": "M_Combo1Effect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_M_Combo1Effect_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Hit",
+			"HitDelayTimeSec": 0.25,
+			"DurationSec": 1.1299999952316284,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "None",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Magician"
+	},
+	{
+		"Name": "M_Combo2Effect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_M_Combo2Effect_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Hit",
+			"HitDelayTimeSec": 0.51999998092651367,
+			"DurationSec": 1.3300000429153442,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "None",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Magician"
+	},
+	{
+		"Name": "M_ThunderEffect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_M_ThunderEffect_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Hit",
+			"HitDelayTimeSec": 0.25,
+			"DurationSec": 0.89999997615814209,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "/Game/VirtualFlow/DemoProjects/CharacterDemo/Effects/ETC/ThunderHitEffect.ThunderHitEffect",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Magician"
+	},
+	{
+		"Name": "M_ThunderAreaEffect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_M_ThunderAreaEffect_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Area",
+			"HitDelayTimeSec": 0,
+			"DurationSec": 0,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 1000,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "M_ThunderEffect",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "None",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Magician"
+	},
+	{
+		"Name": "M_MeteorEffect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_M_MeteorEffect_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Hit",
+			"HitDelayTimeSec": 0,
+			"DurationSec": 0,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "None",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Magician"
+	},
+	{
+		"Name": "M_MeteorAreaEffect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_M_MeteorAreaEffect_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Area",
+			"HitDelayTimeSec": 0,
+			"DurationSec": 0,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 2000,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "M_MeteorEffect",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "None",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Magician"
+	},
+	{
+		"Name": "M_MagicGuardEffect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_M_MagicGuardEffect_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Status",
+			"HitDelayTimeSec": 0,
+			"DurationSec": 0.89999997615814209,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "None",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Magician"
+	},
+	{
+		"Name": "W_GroundSmashEffect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_W_GroundSmashEffect_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "Hit",
+			"HitDelayTimeSec": 1.1000000238418579,
+			"DurationSec": 2.5299999713897705,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 0,
+				"MoveMaxHeight": 100,
+				"MoveMaxHeightSpeed": 200
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "/Game/VirtualFlow/DemoProjects/CharacterDemo/Effects/ETC/RockHitEffect.RockHitEffect",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Warrior"
+	},
+	{
+		"Name": "W_DashEffect",
+		"Version": 0,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Effect_W_DashEffect_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"EffectShapeData":
+		{
+			"EffectType": "SimplePlay",
+			"HitDelayTimeSec": 0,
+			"DurationSec": 0.52999997138977051,
+			"MinEffectRange": 0,
+			"MaxEffectRange": 0,
+			"bUseMovement": false,
+			"MovementData":
+			{
+				"MoveAngleType": "Up",
+				"MoveMaxDistance": 1000,
+				"MoveMaxHeight": 200,
+				"MoveMaxHeightSpeed": 2000
+			}
+		},
+		"EffectStatDBKey":
+		{
+			"StatCategory": "Effect",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ChainEffectDBKey":
+		{
+			"Type": "Effect",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ActionPackAsset": "None",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Warrior"
+	}
+]

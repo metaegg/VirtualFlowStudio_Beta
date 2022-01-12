@@ -1,0 +1,202 @@
+[
+	{
+		"Name": "Warrior_PC",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_Warrior_PC_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "Human",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1.5,
+				"DurationSec": 1,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "NPC"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "ImmortalStat",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "LongSword",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/DemoProjects/CharacterDemo/Characters/SampleWarrior/SampleWarrior.SampleWarrior",
+		"FullbodySkinName": "Skin01",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/DemoProjects/CharacterDemo/Characters/SampleWarrior/ActionPack/SampleWarrior_Hit.SampleWarrior_Hit",
+			"KnockbackActionPackAsset": "None",
+			"StunActionPackAsset": "/Game/VirtualFlow/DemoProjects/CharacterDemo/Characters/SampleWarrior/ActionPack/SampleWarrior_Stun.SampleWarrior_Stun",
+			"AirborneActionPackAsset": "None",
+			"DieActionPackAsset": "/Game/VirtualFlow/DemoProjects/CharacterDemo/Characters/SampleWarrior/ActionPack/SampleWarrior_Die.SampleWarrior_Die",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "Magician_PC",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Player_Magician_PC_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"RaceName": "None",
+		"DefaultStanceName": "Default",
+		"ShapeData":
+		{
+			"AgentRadius": 50,
+			"AgentHeight": 200,
+			"bUseShapeHitOverlapEvents": true
+		},
+		"LocomotionData":
+		{
+			"DefaultMoveSpeed": 500,
+			"StanceMoveSpeeds":
+			{
+			},
+			"JumpMaxHeight": 200,
+			"JumpHeightSpeed": 500,
+			"SprintData":
+			{
+				"SpeedScale": 1,
+				"DurationSec": 0,
+				"HoldTimeSec": 0
+			},
+			"InPlaceRotationRate": 300
+		},
+		"BehaviorData":
+		{
+			"EnemyType": "Creature"
+		},
+		"DefaultPlayerStatDBKey":
+		{
+			"StatCategory": "Player",
+			"Type": "Stat",
+			"RowName": "ImmortalStat",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultCostumeDBKey":
+		{
+			"Type": "Costume",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"CostumePartsDBKeys":
+		{
+		},
+		"MainWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Staff",
+			"ValidationResult": "CheckIt"
+		},
+		"MountAWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "Buckler",
+			"ValidationResult": "CheckIt"
+		},
+		"MountBWeaponDBKey":
+		{
+			"Type": "Weapon",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"DefaultItemPackDBKey":
+		{
+			"Type": "ItemPack",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"EntityAsset": "/Game/VirtualFlow/DemoProjects/CharacterDemo/Characters/SampleMagician/SampleMagician.SampleMagician",
+		"FullbodySkinName": "Skin01",
+		"ReactionData":
+		{
+			"ReactionTemplate": "HumanBasic",
+			"HitActionPackAsset": "/Game/VirtualFlow/DemoProjects/CharacterDemo/Characters/SampleMagician/ActionPack/SampleMagician_Hit.SampleMagician_Hit",
+			"KnockbackActionPackAsset": "None",
+			"StunActionPackAsset": "/Game/VirtualFlow/DemoProjects/CharacterDemo/Characters/SampleMagician/ActionPack/SampleMagician_Stun.SampleMagician_Stun",
+			"AirborneActionPackAsset": "None",
+			"DieActionPackAsset": "/Game/VirtualFlow/DemoProjects/CharacterDemo/Characters/SampleMagician/ActionPack/SampleMagician_Die.SampleMagician_Die",
+			"ResurrectActionPackAsset": "None",
+			"SprintStartActionPackAsset": "None",
+			"SprintEndActionPackAsset": "None",
+			"OpeningActionPackAsset": "None",
+			"ClosedActionPackAsset": "None"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

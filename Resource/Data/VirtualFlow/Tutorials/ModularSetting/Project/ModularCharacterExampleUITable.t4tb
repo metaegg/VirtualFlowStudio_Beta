@@ -1,0 +1,27 @@
+[
+	{
+		"Name": "2DMedia",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"GameUIType": "Media_2D",
+		"FileMediaSource": "/Game/Movies/2021_Gryun_Kim_Showreel.2021_Gryun_Kim_Showreel",
+		"ViewSize":
+		{
+			"X": 0,
+			"Y": 0
+		},
+		"PlayOnOpen": true,
+		"Loop": false,
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

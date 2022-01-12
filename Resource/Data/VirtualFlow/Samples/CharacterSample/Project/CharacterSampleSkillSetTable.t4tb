@@ -1,0 +1,350 @@
+[
+	{
+		"Name": "LongSwordSkillSet",
+		"Version": 0,
+		"PlayMode": "Combo",
+		"BodyDBKey_Overlap":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_LeftHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_RightHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "W_DefaultAttack",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "W_Combo1",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "W_Combo2",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "W_Combo3",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_E":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_F":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "W_GroundSmash",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "W_Dash",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "W_Block",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "LongSwordSkillSet_Simple",
+		"Version": 0,
+		"PlayMode": "Combo",
+		"BodyDBKey_Overlap":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_LeftHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_RightHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "W_DefaultAttack",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "W_Combo1",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "W_Combo2",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "W_Combo3",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_E":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_F":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "StaffSkillSet",
+		"Version": 0,
+		"PlayMode": "Combo",
+		"BodyDBKey_Overlap":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_LeftHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_RightHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "M_DefaultAttack",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "M_Combo1",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "M_Combo2",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_E":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_F":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "M_Thunder",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "M_Meteor",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "M_Teleport",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "StaffSkillSet_Simple",
+		"Version": 0,
+		"PlayMode": "Combo",
+		"BodyDBKey_Overlap":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_LeftHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"BodyDBKey_RightHand":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "M_DefaultAttack",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "M_Combo1",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "M_Combo2",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_E":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AttackDBKey_F":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_A":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_B":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_C":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"AbilityDBKey_D":
+		{
+			"Type": "Skill",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"Description": "",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

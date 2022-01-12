@@ -1,0 +1,530 @@
+[
+	{
+		"Name": "QuestStart_Interact",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_QuestStart_Interact_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/QuestStart_Interact.QuestStart_Interact",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Interact"
+	},
+	{
+		"Name": "QuestStart_Interact_Info",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_QuestStart_Interact_Info_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/QuestStart_Interact_Info.QuestStart_Interact_Info",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "Interact"
+	},
+	{
+		"Name": "Interact",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "None",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "Interact",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "ChainQuest",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "None",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "ChainQuest",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "ChainQuestTest1",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_ChainQuestTest1_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/ChainQuestTest1.ChainQuestTest1",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "ChainQuestTest2",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "ChainQuest"
+	},
+	{
+		"Name": "ChainQuestTest2",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_ChainQuestTest2_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/ChainQuestTest2.ChainQuestTest2",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "ChainQuest"
+	},
+	{
+		"Name": "Chain1_Kill",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_Chain1_Kill_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/QF_ChainQuestKillMission.QF_ChainQuestKillMission",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "Chain2_PickUpItem",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "ChainQuest"
+	},
+	{
+		"Name": "Chain2_PickUpItem",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_Chain2_PickUpItem_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/QF_ChainQuest_PickAnItem.QF_ChainQuest_PickAnItem",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "ChainQuest"
+	},
+	{
+		"Name": "CallQuestZoneArea",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "None",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "CallQuestZoneArea",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "KillMission",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "None",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "KillMission",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "InteractAndGiveReward",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_QuestStart_CallQuestZoneArea_Info_0_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/QF_ReceiveReward.QF_ReceiveReward",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "Quest_ActionMovePath",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_Quest_ActionMovePath_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/QF_ActionMovePath.QF_ActionMovePath",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "Quest_ActionStagePlay",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_Quest_ActionStagePlay_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/QF_ActionStagePlay.QF_ActionStagePlay",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "Quest_ActionStagePlayAndActionMovePath",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_Quest_ActionStagePlayAndActionMovePath_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/QF_ActionStagePlayAndActionMove.QF_ActionStagePlayAndActionMove",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "Quest_PickAnItem",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_Quest_PickAnItem_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/QF_PickAnItem.QF_PickAnItem",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "ActionMovePathCrash_Test",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_ActionMovePathCrash_Test_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/QF_ActionMovePathCrash_Test.QF_ActionMovePathCrash_Test",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "KillMission1",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_MissionType_Kill_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/QF_KillMission1.QF_KillMission1",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "KillMission"
+	},
+	{
+		"Name": "KillMission2",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_KillMission2_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/QF_KillMission2.QF_KillMission2",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "KillMission"
+	},
+	{
+		"Name": "KillMission3",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_KillMission3_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/QF_KillMission3.QF_KillMission3",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "KillMission"
+	},
+	{
+		"Name": "KillMission4",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_KillMission4_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/QF_KillMission4.QF_KillMission4",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "KillMission"
+	},
+	{
+		"Name": "QuestStart_CallQuestZoneArea",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_NewDBKeyName_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/QuestStart_CallQuestZoneArea.QuestStart_CallQuestZoneArea",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "CallQuestZoneArea"
+	},
+	{
+		"Name": "QuestGuide",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_QuestStart_CallQuestZoneArea_1_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/QuestSamples/BasicQuestSample/Quest/QuestStart_CallQuestZoneArea_Info.QuestStart_CallQuestZoneArea_Info",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "CallQuestZoneArea"
+	}
+]

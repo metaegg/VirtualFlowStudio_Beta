@@ -79,7 +79,7 @@
 		"DefaultItemPackDBKey":
 		{
 			"Type": "ItemPack",
-			"RowName": "RewardExample",
+			"RowName": "DefaultBag",
 			"ValidationResult": "CheckIt"
 		},
 		"EntityAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/AnimStarterPack/Soldier23.Soldier23",
