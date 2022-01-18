@@ -71,4 +71,4 @@ VirtualFlow 개발진은 15년 이상의 MMORPG를 개발한 베테랑 엔지니
 - 포럼
   - 준비중...
 - 문의
-  - help@virtualflowinc.com
+  - info@virtualflowinc.com
