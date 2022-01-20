@@ -68,4 +68,4 @@
 - Forum 
   - In progress...
 - Customer Service
-  - help@virtualflowinc.com
+  - info@virtualflowinc.com
