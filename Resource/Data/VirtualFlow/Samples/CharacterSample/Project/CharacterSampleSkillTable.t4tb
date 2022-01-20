@@ -937,7 +937,7 @@
 		{
 			"StatCategory": "Skill",
 			"Type": "Stat",
-			"RowName": "SkillAttack2",
+			"RowName": "Combo3Stat",
 			"ValidationResult": "CheckIt"
 		},
 		"SkillEffectDBKey":

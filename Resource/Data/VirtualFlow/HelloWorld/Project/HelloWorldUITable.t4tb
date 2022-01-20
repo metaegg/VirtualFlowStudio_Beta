@@ -11,7 +11,9 @@
 			"RowName": "None",
 			"ValidationResult": "CheckIt"
 		},
-		"GameUIType": "Media_2D",
+		"UICategory": "Media",
+		"MaxPlayTimeSec": 0,
+		"MediaActionType": "Media_2D",
 		"FileMediaSource": "/Game/Movies/2021_Gryun_Kim_Showreel.2021_Gryun_Kim_Showreel",
 		"ViewSize":
 		{
@@ -20,6 +22,7 @@
 		},
 		"PlayOnOpen": true,
 		"Loop": false,
+		"ThumbnailImageAsset": "None",
 		"FolderName": "None",
 		"bPinned": true,
 		"ParentRowName": "None"

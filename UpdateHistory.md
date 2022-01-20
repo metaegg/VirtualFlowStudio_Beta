@@ -1,4 +1,76 @@
 - **Update History**
+  - v0.9.9.2 : 2022.01.20
+    - New feature or Enhancement
+	  - Client or Server
+	    - [Client] 퀘스트 대화 중에는 시스템 메세지 위젯이 출력되지 않도록 개선 (#784)
+	  - Editor
+	    - [Quest Flow] MediaPlay Task 추가 (#935)
+		  - UI GameDB의 UI Category Media와 연동해 FileMediaSoruce(동영상, MP4)를 재생할 수 있게 됨
+		  - CutscenePlay Task와 마찬가지로, 플레이 후 즉시 다음 스탭 이동 또는 동영상 재생 종료 후 다음 스탭 이동 지원
+		- [Level Editor] Editor PlayMode PIE 실행 시 레벨 에디터 편집 카메라 위치가 시작 위치가 되도록 수정 (#943)
+		- [Quest Flow] Quest Flow, Items 소지 여부에 따라 하위 노드 진행 여부를 체트하는 Deco_HasItems 추가 (#856)
+	- Bugfix
+	  - Client or Server
+	    - [Server] 데미지 계산에서 피격자의 DodgeRate가 공격자의 HitRate보다 높을 경우, 공격 성공 판정이 되는 문제 수정 (#924)
+		- [Server] 월드 이동 시 이동한 월드의 Default Spawn Asset이 스폰되지 않는 문제 수정 (#938)
+	  - Editor
+	    - [Quest Flow] Cool Response Text DBKey 추가시 Text DBkey 값에 작성된 내용이 복사되는 문제 수정 (#865)
+		- [World Explorer] Detail 패널의 "Save MapEntity Asset" 저장이 실패하던 문제 수정 (#943)
+		- [World Explorer] 특정 레벨을 Default Level 지정 시 발생하는 크래시 수정 (#943)
+		- [Level Editor] Play => Editor PlayMode 체크 후 PIE 실행 시 인게임 로그인 창이 뜨던 문제 수정 (#943)
+		- [Content Editor] Stat GameDB의 Multiplt => Multiply 프로퍼티 이름 오류 수정 (#944)
+  - v0.9.9.1 : 2022.01.17 (HOTFIX-1)
+    - HOTFIX
+	  - [Content Editor] "t4.Debug.Combat.DamageLog 1" 커맨드 사용 후 공격 유효타 발생 시 크래시 수정 (#941) (HOTFIX-1)
+	  - [Quest Flow] Branch 하위의 노드가 Check Condition 류 중 Inverse 조건이 될 때, 동작 오류 문제 수정 (#937) (HOTFIX-1)
+    - New feature or Enhancement
+	  - Client or Server
+	    - [Server] Weapon/Goods Item Stat의 DeviationRate는 +-%를 설정할 수 있도록 수정 (#940)
+		  - Character + Item DeviationRate가 양수일 경우 : (100 - DeviationRate) ~ 100
+		  - Character + Item DeviationRate가 음수일 경우 : 100 ~ (100 + DeviationRate)
+	    - [Server] 공격력/방어력에 대한 버프, 디버프 효과를 Multiply Rate로 제어할 수 있도록 수정 (#939)
+		  - 기존 StatusEffect의 DodgeRate, DefensivePower를 Multiply Rate와 중복임으로 제거
+		  - Multuply Rate 적용도 스킬 공격자와 피격자용 프로퍼티를 별도로 적용하도록 분리
+		    - Attacker : HitRate, StrikingPower, DeviationRate
+			- Defender : DodgeRate, DefensivePower
+	  - Editor
+	    - [Content Editor] GameDB Row DetailView의 Text 추가 버튼 변경(+버튼) 및 업데이트 버튼 제거 (#936)
+	  - Common
+	    - [Quest Flow] 미션 완료 전 인터렉션으로 대화를 시도한 객체에게 인터렉션 재시도 시의 시스템 메시지 추가 (#865)
+	- Bugfix
+	  - Client or Server
+	    - [Server] 전투 공식 수정 관련 피드백 반영 (#924)
+	      - Item HitRate가 적용되지 않던 문제 수정 및 메뉴 표시 (+%) 추가
+		  - Skill/Effect Stat의 HitRate, StrikingPower 설정 제거 (MultiplyRate로 완전 대체)
+		  - "t4.Debug.Combat.DamageLog 1" 커맨드 출력 메시지 정리 및 보완
+	  - Editor
+	    - [Quest Flow] DialogResult/HP/Level/Race Inverse 조건에 부합되지 않음에도 불구하고 하위 Task가 실행되는 문제 수정 (#928)
+  - v0.9.9.0 : 2022.01.16
+    - New feature or Enhancement
+	  - Client or Server
+	    - [Server] 기본 전투 공식 변경 (#924)
+		  - 명중률과 회피율 계산은 공격 성공/실패 여부 판단
+		  - 데미지 계산에 공격력, 방어력과 함께 난수를 곱해 최소/최대 데미지를 랜덤하게 얻을 수 있도록 수정
+		  - Skill/Effect Stat에 MultiplyRate를 추가해 데미지 계산 조정 팩터 제공
+		  - Status Effect로 Dodge_Rate와 Defensive_Power를 추가해 방어력 증가감
+		  - "t4.Debug.Combat.DamageLog 1" 커맨드를 통해 데미지 계산 결과 확인 지원
+	  - Editor
+	    - [Content Editor] GameDB Detail의 StatDB Droplist의 +버튼으로 새로운 StatDB를 추가할 수 있도록 개선 (#883)
+	    - [Content Editor] GameDB Detail에서 선택한 StatDB 데이터를 TextDB와 같이 바로 편집할 수 있도록 기능 추가 (#883)
+	    - [Content Editor] 로컬 머신에서 처음 오픈한 SpawnLayer 카메라 위치가 원점에 출력되는 문제 개선 (#932)
+	    - [Content Editor] 시뮬레이션 모드 미사용 시는 플레이어 캐릭터 교체 지원 (CTRL+캐릭터 선택+R-Click) (#924)
+	  - Common
+	    - [Cliet/Server] SpawnObject 별로, 다른 객체의 이동에 의해 서 있을 때 밀림 여부를 결정할 수 있는 MovePushable 기능 추가 (#860)
+		- [Cliet/Server] 존 타입 스폰오브젝트 월드 이동 기능 추가 (#737)
+	- Bugfix
+	  - Client or Server
+	    - [Quest Flow] HP/Race Condition Deco 조건이 정상 동작하지 않는 문제 수정 (#926, #928)
+		- [Quest Flow] 특정 조건의 퀘스트의 Init Quest DB key에 퀘스트 등록 시 정상 발현이 안 되는 문제 개선 (#933)
+		  - DialogueResult/HP/Level/Race Deco 조건류가 존재하는 Quest
+	  - Editor
+	    - [Content Editor] Parts CostumeEntity의 AttachParts 설정이 캐릭터에 적용되지 않던 문제 수정 (#932)
+	    - [Content Editor] 한 개 이상 Content Editor를 사용할 경우 캐릭터 인벤토리/장비창이 동작하지 않던 문제 수정 (#924)
+		- [Quest Flow] ActionMovePath, ActionStagePlay의 ActorSpawnObjectGuid 드랍리스트에 SpawnObject ID도 보이도록 개선 (#917)
   - v0.9.8.9 : 2022.01.11 (HOTFIX-1)
     - HOTFIX
 	  - [Client] UE5.0EA에서 로비/로그인/캐릭터 생성 UI의 Text 출력이 비정상적으로 보이던 문제 수정 (#918)

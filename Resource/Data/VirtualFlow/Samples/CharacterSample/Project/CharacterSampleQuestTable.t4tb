@@ -1,1 +1,26 @@
-[]
+[
+	{
+		"Name": "NewDBKeyName",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Simulation_Quest1_Mission_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/DemoProjects/CharacterDemo/Quest/Simulation_Quest1.Simulation_Quest1",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

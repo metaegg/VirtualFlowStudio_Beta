@@ -21,7 +21,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -43,7 +43,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "QuestPlayer",
+			"RowName": "MetaHumas_Player",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":
@@ -58,7 +58,7 @@
 		"MainWeaponDBKey":
 		{
 			"Type": "Weapon",
-			"RowName": "Rifle_AR4",
+			"RowName": "None",
 			"ValidationResult": "CheckIt"
 		},
 		"MountAWeaponDBKey":
@@ -121,7 +121,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -143,7 +143,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "QuestPlayer",
+			"RowName": "MetaHumas_Player",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":
@@ -221,7 +221,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -243,7 +243,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "QuestPlayer",
+			"RowName": "MetaHumas_Player",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":
@@ -321,7 +321,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -343,7 +343,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "QuestPlayer",
+			"RowName": "MetaHumas_Player",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":
@@ -421,7 +421,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -443,7 +443,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "QuestPlayer",
+			"RowName": "MetaHumas_Player",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":
@@ -521,7 +521,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -543,7 +543,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "QuestPlayer",
+			"RowName": "MetaHumas_Player",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":
@@ -621,7 +621,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -643,7 +643,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "QuestPlayer",
+			"RowName": "MetaHumas_Player",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":
@@ -721,7 +721,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -743,7 +743,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "QuestPlayer",
+			"RowName": "MetaHumas_Player",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":
@@ -821,7 +821,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -843,7 +843,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "QuestPlayer",
+			"RowName": "MetaHumas_Player",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":
@@ -921,7 +921,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -943,7 +943,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "QuestPlayer",
+			"RowName": "MetaHumas_Player",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":
@@ -1021,7 +1021,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -1043,7 +1043,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "QuestPlayer",
+			"RowName": "MetaHumas_Player",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":
@@ -1121,7 +1121,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -1143,7 +1143,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "QuestPlayer",
+			"RowName": "MetaHumas_Player",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":
@@ -1221,7 +1221,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -1243,7 +1243,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "QuestPlayer",
+			"RowName": "MetaHumas_Player",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":
@@ -1321,7 +1321,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -1343,7 +1343,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "QuestPlayer",
+			"RowName": "MetaHumas_Player",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":
@@ -1421,7 +1421,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -1443,7 +1443,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "QuestPlayer",
+			"RowName": "MetaHumas_Player",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":
@@ -1521,7 +1521,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -1543,7 +1543,7 @@
 		{
 			"StatCategory": "Player",
 			"Type": "Stat",
-			"RowName": "QuestPlayer",
+			"RowName": "MetaHumas_Player",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":

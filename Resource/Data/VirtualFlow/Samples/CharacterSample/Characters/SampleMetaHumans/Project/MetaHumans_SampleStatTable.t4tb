@@ -1,12 +1,13 @@
 [
 	{
-		"Name": "QuestPlayer",
-		"Version": 0,
+		"Name": "MetaHumas_Player",
+		"Version": 2,
 		"StatCategory": "Player",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 1000,
+			"Deviation_Rate": 0,
 			"Striking_Power": 100,
 			"Hit_Rate": 100,
 			"Defensive_Power": 50,
@@ -15,7 +16,7 @@
 		"OffenseData":
 		{
 			"Striking_Power": 0,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"CC_Knockback_Rate": 0,
 			"CC_Stun_Rate": 0
 		},
@@ -38,6 +39,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "",
 		"FolderName": "None",
 		"bPinned": true,
@@ -45,14 +47,15 @@
 	},
 	{
 		"Name": "Rifle_AR4_Stat",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "Item",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 100,
+			"Deviation_Rate": 0,
 			"Striking_Power": 10,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"Defensive_Power": 10,
 			"Dodge_Rate": 0
 		},
@@ -82,6 +85,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "",
 		"FolderName": "None",
 		"bPinned": true,

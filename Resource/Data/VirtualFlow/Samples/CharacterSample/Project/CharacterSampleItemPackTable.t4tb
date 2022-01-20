@@ -1,1 +1,43 @@
-[]
+[
+	{
+		"Name": "Staff_Reward",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "ItemPack_Staff_Reward_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"PaymentType": "Inventory",
+		"ItemDropRange": 100,
+		"ItemPackStatDBKey":
+		{
+			"StatCategory": "ItemPack",
+			"Type": "Stat",
+			"RowName": "100Percent",
+			"ValidationResult": "CheckIt"
+		},
+		"ItemPackageDatas": [
+			{
+				"ItemCategory": "Weapon",
+				"ItemDBKey":
+				{
+					"Type": "Weapon",
+					"RowName": "Staff",
+					"ValidationResult": "CheckIt"
+				},
+				"ItemDBKeyName": "None",
+				"ItemCount": 1
+			}
+		],
+		"MainEntityAsset": "/Game/VirtualFlow/DemoProjects/CharacterDemo/Weapons/SampleStaff.SampleStaff",
+		"TakeActionPackAsset": "None",
+		"MainPortraitName": "Default",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

@@ -56,7 +56,7 @@
 		},
 		"MainEntityData":
 		{
-			"WeaponEntityAsset": "/Game/VirtualFlow/HelloWorld/Assets/Entity/FPS_Weapon_Bundle/Weapon_AR4.Weapon_AR4",
+			"WeaponEntityAsset": "None",
 			"StanceAttachPointMap":
 			{
 			}
@@ -64,8 +64,8 @@
 		"VRDataSetName": "Default",
 		"ShapeData":
 		{
-			"ShapeRadius": 25,
-			"ShapeHeight": 25,
+			"ShapeRadius": 0,
+			"ShapeHeight": 0,
 			"AgentRadius": 25,
 			"AgentHeight": 25,
 			"bUseShapeHitOverlapEvents": false

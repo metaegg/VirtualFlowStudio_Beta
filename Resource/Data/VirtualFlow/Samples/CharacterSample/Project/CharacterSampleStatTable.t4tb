@@ -1,14 +1,15 @@
 [
 	{
 		"Name": "LongSwordStat",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "Item",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 100,
+			"Deviation_Rate": 0,
 			"Striking_Power": 10,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"Defensive_Power": 10,
 			"Dodge_Rate": 0
 		},
@@ -38,6 +39,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "Long Sword Sample Stat",
 		"FolderName": "None",
 		"bPinned": true,
@@ -45,28 +47,29 @@
 	},
 	{
 		"Name": "BucklerStat",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "Item",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 100,
+			"Deviation_Rate": 0,
 			"Striking_Power": 10,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"Defensive_Power": 10,
 			"Dodge_Rate": 0
 		},
 		"OffenseData":
 		{
 			"Striking_Power": 0,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"CC_Knockback_Rate": 0,
 			"CC_Stun_Rate": 0
 		},
 		"DefenseData":
 		{
 			"Defensive_Power": 1000,
-			"Dodge_Rate": 100,
+			"Dodge_Rate": 0,
 			"Add_HP": 100
 		},
 		"ConsumableData":
@@ -82,6 +85,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "Buckler Sample Stat",
 		"FolderName": "None",
 		"bPinned": true,
@@ -89,14 +93,15 @@
 	},
 	{
 		"Name": "StaffStat",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "Item",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 100,
+			"Deviation_Rate": 0,
 			"Striking_Power": 10,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"Defensive_Power": 10,
 			"Dodge_Rate": 0
 		},
@@ -126,6 +131,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "Staff Sample Stat",
 		"FolderName": "None",
 		"bPinned": true,
@@ -133,12 +139,13 @@
 	},
 	{
 		"Name": "ImmortalStat",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "Player",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
-			"Basic_HP": 100,
+			"Basic_HP": 10000,
+			"Deviation_Rate": 0,
 			"Striking_Power": 0,
 			"Hit_Rate": 100,
 			"Defensive_Power": 10000,
@@ -147,7 +154,7 @@
 		"OffenseData":
 		{
 			"Striking_Power": 0,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"CC_Knockback_Rate": 0,
 			"CC_Stun_Rate": 0
 		},
@@ -170,6 +177,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "",
 		"FolderName": "None",
 		"bPinned": true,
@@ -177,12 +185,13 @@
 	},
 	{
 		"Name": "NormalStat",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "Player",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 200,
+			"Deviation_Rate": 0,
 			"Striking_Power": 0,
 			"Hit_Rate": 100,
 			"Defensive_Power": 0,
@@ -191,7 +200,7 @@
 		"OffenseData":
 		{
 			"Striking_Power": 0,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"CC_Knockback_Rate": 0,
 			"CC_Stun_Rate": 0
 		},
@@ -214,6 +223,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "",
 		"FolderName": "None",
 		"bPinned": true,
@@ -221,20 +231,21 @@
 	},
 	{
 		"Name": "DefaultAttackStat",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "Skill",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 100,
+			"Deviation_Rate": 0,
 			"Striking_Power": 10,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"Defensive_Power": 10,
 			"Dodge_Rate": 0
 		},
 		"OffenseData":
 		{
-			"Striking_Power": 10,
+			"Striking_Power": 0,
 			"Hit_Rate": 100,
 			"CC_Knockback_Rate": 0,
 			"CC_Stun_Rate": 0
@@ -258,6 +269,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "DefaultAttack",
 		"FolderName": "None",
 		"bPinned": true,
@@ -265,14 +277,15 @@
 	},
 	{
 		"Name": "SkillAttack2",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "Skill",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 100,
+			"Deviation_Rate": 0,
 			"Striking_Power": 10,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"Defensive_Power": 10,
 			"Dodge_Rate": 0
 		},
@@ -302,6 +315,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "1000",
 		"FolderName": "None",
 		"bPinned": true,
@@ -309,14 +323,15 @@
 	},
 	{
 		"Name": "SkillAttack",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "Skill",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 100,
+			"Deviation_Rate": 0,
 			"Striking_Power": 10,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"Defensive_Power": 10,
 			"Dodge_Rate": 0
 		},
@@ -346,6 +361,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "100",
 		"FolderName": "None",
 		"bPinned": true,
@@ -353,14 +369,15 @@
 	},
 	{
 		"Name": "Combo2Stat",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "Skill",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 100,
+			"Deviation_Rate": 0,
 			"Striking_Power": 10,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"Defensive_Power": 10,
 			"Dodge_Rate": 0
 		},
@@ -390,6 +407,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "20",
 		"FolderName": "None",
 		"bPinned": true,
@@ -397,14 +415,15 @@
 	},
 	{
 		"Name": "Combo3Stat",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "Skill",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 100,
+			"Deviation_Rate": 0,
 			"Striking_Power": 10,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"Defensive_Power": 10,
 			"Dodge_Rate": 0
 		},
@@ -434,6 +453,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "50",
 		"FolderName": "None",
 		"bPinned": true,
@@ -441,21 +461,22 @@
 	},
 	{
 		"Name": "WarriorStat_Enemy",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "NPC",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
-			"Basic_HP": 100,
+			"Basic_HP": 200,
+			"Deviation_Rate": 0,
 			"Striking_Power": 0,
-			"Hit_Rate": 100,
+			"Hit_Rate": 80,
 			"Defensive_Power": 0,
 			"Dodge_Rate": 0
 		},
 		"OffenseData":
 		{
 			"Striking_Power": 0,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"CC_Knockback_Rate": 0,
 			"CC_Stun_Rate": 0
 		},
@@ -478,6 +499,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "",
 		"FolderName": "None",
 		"bPinned": true,
@@ -485,21 +507,22 @@
 	},
 	{
 		"Name": "WarriorStat_Sandbag",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "NPC",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
-			"Basic_HP": 200,
+			"Basic_HP": 10000,
+			"Deviation_Rate": 0,
 			"Striking_Power": 0,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"Defensive_Power": 10000,
-			"Dodge_Rate": 0
+			"Dodge_Rate": 50
 		},
 		"OffenseData":
 		{
 			"Striking_Power": 0,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"CC_Knockback_Rate": 0,
 			"CC_Stun_Rate": 0
 		},
@@ -522,6 +545,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "",
 		"FolderName": "None",
 		"bPinned": true,
@@ -529,12 +553,13 @@
 	},
 	{
 		"Name": "MagicianStat_Boss",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "NPC",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 500,
+			"Deviation_Rate": 0,
 			"Striking_Power": 30,
 			"Hit_Rate": 100,
 			"Defensive_Power": 20,
@@ -543,7 +568,7 @@
 		"OffenseData":
 		{
 			"Striking_Power": 0,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"CC_Knockback_Rate": 0,
 			"CC_Stun_Rate": 0
 		},
@@ -566,6 +591,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "",
 		"FolderName": "None",
 		"bPinned": true,
@@ -573,12 +599,13 @@
 	},
 	{
 		"Name": "MagicianStat_Enemy",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "NPC",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 100,
+			"Deviation_Rate": 0,
 			"Striking_Power": 0,
 			"Hit_Rate": 100,
 			"Defensive_Power": 0,
@@ -587,7 +614,7 @@
 		"OffenseData":
 		{
 			"Striking_Power": 0,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"CC_Knockback_Rate": 0,
 			"CC_Stun_Rate": 0
 		},
@@ -610,27 +637,29 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "",
 		"FolderName": "None",
 		"bPinned": true,
 		"ParentRowName": "None"
 	},
 	{
-		"Name": "SkillAttackEffect",
-		"Version": 0,
+		"Name": "Test",
+		"Version": 2,
 		"StatCategory": "Effect",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 100,
+			"Deviation_Rate": 0,
 			"Striking_Power": 10,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"Defensive_Power": 10,
 			"Dodge_Rate": 0
 		},
 		"OffenseData":
 		{
-			"Striking_Power": 200,
+			"Striking_Power": 0,
 			"Hit_Rate": 100,
 			"CC_Knockback_Rate": 0,
 			"CC_Stun_Rate": 0
@@ -654,21 +683,23 @@
 		{
 			"Drop_Rate": 100
 		},
-		"Description": "200",
+		"MultiplyRateDatas": [],
+		"Description": "",
 		"FolderName": "None",
 		"bPinned": true,
 		"ParentRowName": "None"
 	},
 	{
 		"Name": "SkillAttackEffect2",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "Effect",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 100,
+			"Deviation_Rate": 0,
 			"Striking_Power": 10,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"Defensive_Power": 10,
 			"Dodge_Rate": 0
 		},
@@ -698,7 +729,100 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "1000",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "SkillAttackEffect",
+		"Version": 2,
+		"StatCategory": "Effect",
+		"StatItemCategory": "Weapon",
+		"PhysicalData":
+		{
+			"Basic_HP": 100,
+			"Deviation_Rate": 0,
+			"Striking_Power": 10,
+			"Hit_Rate": 100,
+			"Defensive_Power": 10,
+			"Dodge_Rate": 0
+		},
+		"OffenseData":
+		{
+			"Striking_Power": 200,
+			"Hit_Rate": 100,
+			"CC_Knockback_Rate": 0,
+			"CC_Stun_Rate": 0
+		},
+		"DefenseData":
+		{
+			"Defensive_Power": 0,
+			"Dodge_Rate": 0,
+			"Add_HP": 0
+		},
+		"ConsumableData":
+		{
+			"HP": 0
+		},
+		"StatusEffectData":
+		{
+			"HP_Charge": 0,
+			"MoveSpeed_Rate": 100
+		},
+		"ItemPackData":
+		{
+			"Drop_Rate": 100
+		},
+		"MultiplyRateDatas": [],
+		"Description": "200",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	},
+	{
+		"Name": "100Percent",
+		"Version": 2,
+		"StatCategory": "ItemPack",
+		"StatItemCategory": "Weapon",
+		"PhysicalData":
+		{
+			"Basic_HP": 100,
+			"Deviation_Rate": 0,
+			"Striking_Power": 10,
+			"Hit_Rate": 100,
+			"Defensive_Power": 10,
+			"Dodge_Rate": 0
+		},
+		"OffenseData":
+		{
+			"Striking_Power": 0,
+			"Hit_Rate": 100,
+			"CC_Knockback_Rate": 0,
+			"CC_Stun_Rate": 0
+		},
+		"DefenseData":
+		{
+			"Defensive_Power": 0,
+			"Dodge_Rate": 0,
+			"Add_HP": 0
+		},
+		"ConsumableData":
+		{
+			"HP": 0
+		},
+		"StatusEffectData":
+		{
+			"HP_Charge": 0,
+			"MoveSpeed_Rate": 100
+		},
+		"ItemPackData":
+		{
+			"Drop_Rate": 100
+		},
+		"MultiplyRateDatas": [],
+		"Description": "",
 		"FolderName": "None",
 		"bPinned": true,
 		"ParentRowName": "None"

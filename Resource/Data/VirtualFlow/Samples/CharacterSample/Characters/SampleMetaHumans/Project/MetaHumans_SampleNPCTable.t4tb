@@ -21,7 +21,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -85,9 +85,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -140,7 +140,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -204,9 +204,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -259,7 +259,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -323,9 +323,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -378,7 +378,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -442,9 +442,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -497,7 +497,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -561,9 +561,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -616,7 +616,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -680,9 +680,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -735,7 +735,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -799,9 +799,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -854,7 +854,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -918,9 +918,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -973,7 +973,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -1037,9 +1037,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -1092,7 +1092,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -1156,9 +1156,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -1211,7 +1211,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -1275,9 +1275,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -1330,7 +1330,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -1394,9 +1394,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -1449,7 +1449,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -1513,9 +1513,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -1568,7 +1568,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -1632,9 +1632,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -1687,7 +1687,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -1751,9 +1751,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -1806,7 +1806,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -1870,9 +1870,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -1925,7 +1925,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -1989,9 +1989,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -2044,7 +2044,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -2108,9 +2108,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -2163,7 +2163,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -2227,9 +2227,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -2282,7 +2282,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -2346,9 +2346,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -2401,7 +2401,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -2465,9 +2465,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -2520,7 +2520,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -2584,9 +2584,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -2639,7 +2639,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -2703,9 +2703,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -2758,7 +2758,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -2822,9 +2822,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
@@ -2877,7 +2877,7 @@
 		},
 		"LocomotionData":
 		{
-			"DefaultMoveSpeed": 500,
+			"DefaultMoveSpeed": 200,
 			"StanceMoveSpeeds":
 			{
 			},
@@ -2941,9 +2941,9 @@
 			"CallForHelpRange": 0,
 			"SensoryRange": 1000,
 			"VisionAngle": 90,
-			"RoamingRange": 0,
-			"RoamingRate": 0,
-			"IdleWaitTimeSec": 5,
+			"RoamingRange": 1000,
+			"RoamingRate": 0.75,
+			"IdleWaitTimeSec": 1.5,
 			"DisappearAfterDeathTimeSec": 5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"

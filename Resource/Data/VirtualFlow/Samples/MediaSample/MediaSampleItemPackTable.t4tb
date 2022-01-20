@@ -1,1 +1,43 @@
-[]
+[
+	{
+		"Name": "DefaultBag",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "ItemPack_DefaultBag_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"PaymentType": "Inventory",
+		"ItemDropRange": 100,
+		"ItemPackStatDBKey":
+		{
+			"StatCategory": "ItemPack",
+			"Type": "Stat",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"ItemPackageDatas": [
+			{
+				"ItemCategory": "Weapon",
+				"ItemDBKey":
+				{
+					"Type": "Weapon",
+					"RowName": "Rifle_KA47",
+					"ValidationResult": "CheckIt"
+				},
+				"ItemDBKeyName": "None",
+				"ItemCount": 1
+			}
+		],
+		"MainEntityAsset": "/Game/VirtualFlow/StarterPack/Entity/Item/BagExplorer.BagExplorer",
+		"TakeActionPackAsset": "None",
+		"MainPortraitName": "Default",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

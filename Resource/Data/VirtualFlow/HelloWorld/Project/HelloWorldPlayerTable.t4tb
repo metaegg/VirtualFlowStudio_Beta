@@ -161,7 +161,7 @@
 		"MainWeaponDBKey":
 		{
 			"Type": "Weapon",
-			"RowName": "None",
+			"RowName": "Rifle_KA47",
 			"ValidationResult": "CheckIt"
 		},
 		"MountAWeaponDBKey":

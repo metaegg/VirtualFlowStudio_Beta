@@ -40,7 +40,7 @@
 		{
 			"StatCategory": "Skill",
 			"Type": "Stat",
-			"RowName": "MainChracter_Skill_Stat",
+			"RowName": "MainCharacter_Skill_Stat",
 			"ValidationResult": "CheckIt"
 		},
 		"SkillEffectDBKey":

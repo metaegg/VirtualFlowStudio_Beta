@@ -77,7 +77,7 @@
 		{
 			"StatCategory": "Effect",
 			"Type": "Stat",
-			"RowName": "SpeedUpThurible_Buff_Stat",
+			"RowName": "SpeedUpPotion_Buff_Stat",
 			"ValidationResult": "CheckIt"
 		},
 		"ChainEffectDBKey":
@@ -123,7 +123,7 @@
 		{
 			"StatCategory": "Effect",
 			"Type": "Stat",
-			"RowName": "HpRecoveryBarrel_Consumable_Stat",
+			"RowName": "HpRecoveryPotion_Consumable_Stat",
 			"ValidationResult": "CheckIt"
 		},
 		"ChainEffectDBKey":

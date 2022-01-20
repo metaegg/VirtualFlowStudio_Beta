@@ -1,1 +1,26 @@
-[]
+[
+	{
+		"Name": "MediaTestPlay",
+		"Version": 0,
+		"TitleTextDBKey":
+		{
+			"TextCategory": "Title",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Quest_MediaTestPlay_Title",
+			"ValidationResult": "CheckIt"
+		},
+		"QuestTarget": "All",
+		"QuestFlowAsset": "/Game/VirtualFlow/Samples/MediaSample/Quest/MediaPlayQuest.MediaPlayQuest",
+		"ChainQuestDBKey":
+		{
+			"Type": "Quest",
+			"RowName": "None",
+			"ValidationResult": "CheckIt"
+		},
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]

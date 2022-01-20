@@ -1,21 +1,22 @@
 [
 	{
 		"Name": "Soldier23",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "None",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 100,
+			"Deviation_Rate": 0,
 			"Striking_Power": 10,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"Defensive_Power": 10,
 			"Dodge_Rate": 0
 		},
 		"OffenseData":
 		{
 			"Striking_Power": 0,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"CC_Knockback_Rate": 0,
 			"CC_Stun_Rate": 0
 		},
@@ -38,6 +39,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "",
 		"FolderName": "Soldier23",
 		"bPinned": true,
@@ -45,12 +47,13 @@
 	},
 	{
 		"Name": "Soldier23_PC_Stat",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "Player",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 1000,
+			"Deviation_Rate": 0,
 			"Striking_Power": 150,
 			"Hit_Rate": 80,
 			"Defensive_Power": 10,
@@ -59,7 +62,7 @@
 		"OffenseData":
 		{
 			"Striking_Power": 0,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"CC_Knockback_Rate": 0,
 			"CC_Stun_Rate": 0
 		},
@@ -82,6 +85,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "",
 		"FolderName": "None",
 		"bPinned": true,
@@ -89,14 +93,15 @@
 	},
 	{
 		"Name": "Rifle_AR4_Stat",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "Item",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 100,
+			"Deviation_Rate": 0,
 			"Striking_Power": 10,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"Defensive_Power": 10,
 			"Dodge_Rate": 0
 		},
@@ -126,6 +131,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "",
 		"FolderName": "None",
 		"bPinned": true,
@@ -133,21 +139,22 @@
 	},
 	{
 		"Name": "RewardExampleItemStat",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "ItemPack",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 100,
+			"Deviation_Rate": 0,
 			"Striking_Power": 10,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"Defensive_Power": 10,
 			"Dodge_Rate": 0
 		},
 		"OffenseData":
 		{
 			"Striking_Power": 0,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"CC_Knockback_Rate": 0,
 			"CC_Stun_Rate": 0
 		},
@@ -170,6 +177,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "",
 		"FolderName": "None",
 		"bPinned": true,
@@ -177,14 +185,15 @@
 	},
 	{
 		"Name": "EffectStatCommon",
-		"Version": 0,
+		"Version": 2,
 		"StatCategory": "Effect",
 		"StatItemCategory": "Weapon",
 		"PhysicalData":
 		{
 			"Basic_HP": 100,
+			"Deviation_Rate": 0,
 			"Striking_Power": 10,
-			"Hit_Rate": 0,
+			"Hit_Rate": 100,
 			"Defensive_Power": 10,
 			"Dodge_Rate": 0
 		},
@@ -214,6 +223,7 @@
 		{
 			"Drop_Rate": 100
 		},
+		"MultiplyRateDatas": [],
 		"Description": "",
 		"FolderName": "None",
 		"bPinned": true,

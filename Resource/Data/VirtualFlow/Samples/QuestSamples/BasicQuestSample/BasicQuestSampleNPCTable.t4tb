@@ -39,7 +39,7 @@
 		{
 			"StatCategory": "NPC",
 			"Type": "Stat",
-			"RowName": "None",
+			"RowName": "QuestNPC",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":
@@ -88,7 +88,7 @@
 			"RoamingRange": 0,
 			"RoamingRate": 0,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5,
+			"DisappearAfterDeathTimeSec": 1,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
 		},
@@ -564,7 +564,7 @@
 			"RoamingRange": 1000,
 			"RoamingRate": 0.75,
 			"IdleWaitTimeSec": 5,
-			"DisappearAfterDeathTimeSec": 5,
+			"DisappearAfterDeathTimeSec": 1.5,
 			"OpeningEventName": "None",
 			"ClosedEventName": "None"
 		},
@@ -872,7 +872,7 @@
 		{
 			"StatCategory": "NPC",
 			"Type": "Stat",
-			"RowName": "None",
+			"RowName": "QuestNPC",
 			"ValidationResult": "CheckIt"
 		},
 		"DefaultCostumeDBKey":

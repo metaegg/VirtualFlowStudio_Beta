@@ -107,7 +107,7 @@
 		{
 			"EffectType": "Status",
 			"HitDelayTimeSec": 0,
-			"DurationSec": 5,
+			"DurationSec": 1,
 			"MinEffectRange": 0,
 			"MaxEffectRange": 0,
 			"bUseMovement": false,
