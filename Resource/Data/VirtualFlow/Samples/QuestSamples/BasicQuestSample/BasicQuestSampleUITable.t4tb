@@ -1,0 +1,30 @@
+[
+	{
+		"Name": "Movie",
+		"Version": 1,
+		"NameTextDBKey":
+		{
+			"TextCategory": "Name",
+			"EditSourceString": "",
+			"EditPortraitName": "None",
+			"Type": "Text",
+			"RowName": "Goods_Movie_Name",
+			"ValidationResult": "CheckIt"
+		},
+		"UICategory": "Media",
+		"MaxPlayTimeSec": 2.5,
+		"MediaActionType": "Media_2D",
+		"FileMediaSource": "/Game/VirtualFlow/Samples/MediaSample/Media/IntroMovie.IntroMovie",
+		"ViewSize":
+		{
+			"X": 0,
+			"Y": 0
+		},
+		"PlayOnOpen": true,
+		"Loop": false,
+		"ThumbnailImageAsset": "/Game/VirtualFlow/Samples/MediaSample/Media/VF_Intro_Image.VF_Intro_Image",
+		"FolderName": "None",
+		"bPinned": true,
+		"ParentRowName": "None"
+	}
+]
