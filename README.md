@@ -22,24 +22,27 @@
 ## VirtualFlow Studio
 
 ### Information
-- VirtualFlow Studio Version 
+- **VirtualFlow Studio Version**
   - T4Framework v1.0a
-- Unreal Engine Version
+- **Unreal Engine Version**
   - UE5.0 Early Access 1
-- Supported Platform
+- **Supported Platform**
   - Windows 64bit
-- License
+- **License**
   - FREE ("Unreal Engine 5 Early Access" Version)
-- Showcase
-  - <a href="https://t4framework.com/Showcase/" target="_blank">https://t4framework.com/Showcase</a>
-- Assets you need to download to follow along the tutorials (Free Assets)
-  - HelloWorld Project
-    - <a href="https://www.unrealengine.com/marketplace/en-US/product/animation-starter-pack" target="_blank">Animation Starter Pack</a>
-    - <a href="https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1" target="_blank">Advanced Locomotion System</a>
-    - <a href="https://www.unrealengine.com/marketplace/en-US/product/fps-weapon-bundle" target="_blank">FPS Weapon Bundle</a>
+- **Download Binaries**
+  - https://github.com/VirtualFlowInc/VirtualFlowStudio_Beta/releases
+    - [Installation guide](https://wiggly-burst-46b.notion.site/Tutorial-1-Introduction-to-T4Framework-Setup-for-the-Following-Tutorials-77f7bfcbc68e4fe19c13ee416ee7972d)
+- **Assets you need to download to follow along the tutorials (Free Assets)**
   - TutorialGame_Example Project
     - <a href="https://www.unrealengine.com/marketplace/en-US/product/c93f1fa73dad4adf9a3d09883d8c8dec" target="_blank">City of Brass: Environments</a>
     - <a href="https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit-games" target="_blank">Unreal Learning Kit: Games</a>
+  - Sample Project
+    - <a href="https://www.unrealengine.com/marketplace/en-US/product/animation-starter-pack" target="_blank">Animation Starter Pack</a>
+    - <a href="https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1" target="_blank">Advanced Locomotion System</a>
+    - <a href="https://www.unrealengine.com/marketplace/en-US/product/fps-weapon-bundle" target="_blank">FPS Weapon Bundle</a>
+- **Showcase**
+  - <a href="https://t4framework.com/Showcase/" target="_blank">https://t4framework.com/Showcase</a>
 
 ### Tutorials
 
