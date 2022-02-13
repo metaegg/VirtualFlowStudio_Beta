@@ -65,7 +65,7 @@
 - <a href="https://wiggly-burst-46b.notion.site/Tutorial-15-Setting-Up-Event-Triggers-cad258f289e546668339dc8d55bafd48" target="_blank">Tutorial 15: Setting Up Event Triggers</a>
 - <a href="https://wiggly-burst-46b.notion.site/Tutorial-16-Project-Packaging-Single-Mode-cdbfaecc0b514ae8bc36a2db22ee5b84" target="_blank">Tutorial 16: Project Packaging (Single Mode)</a>
 - <a href="https://wiggly-burst-46b.notion.site/Tutorial-17-Running-a-Server-Incorporating-it-into-a-Package-e7d09be3f2904fa890c149b7285b8382" target="_blank">Tutorial 17: Running a Server & Incorporating it into a Package</a>
-- <a href="https://wiggly-burst-46b.notion.site/T4Framework-INPUT-f307ee1c323a4db98894662c0f6ead2b" target="_blank">Input guide</a>
+- <a href="https://wiggly-burst-46b.notion.site/T4Framework-Hotkeys-Inputs-5d013c8fa3eb41c99adb594cb552b066" target="_blank">Input guide</a>
 
 ### Community
 - Forum 
