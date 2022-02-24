@@ -1,6 +1,3 @@
-# VirtualFlow Studio (Beta Version) - WIP
-
-![Virtualflow_Logo](./Virtualflow_Logo.png)
 
 ## A High-End 3D Tool for Content Creators
 
@@ -10,14 +7,14 @@
 
 **VirtualFlow Studio**—which was created with the help of the **T4Framework** plugin—is an Integrated Development Environment that enables you to utilize the powerful features of the Unreal Engine even without the technical knowledge on **Blueprint Visual Scripting** or **C++** programming language. **VirtualFlow Studio** provides you with a brand-new gameplay framework and a professional-level toolset, with which anybody can create an open-world multiplayer content. 
 
-<p align="center"><img src="https://t4framework.com/img/Epic_MegaGrants_Recipient_logo.png"></p>  
+ 
 <p align="center"><a href="https://www.unrealengine.com/en-US/megagrants" target="_blank">2020 : Awarded "Epic MegaGrant" from Epic Games Inc</a></p>  
 
 ## A Free Demo of VirtualFlow Studio (for Unreal Engine 5 EA) is Here For You
 
 **VirtualFlow Inc.** is a startup that’s made up of veteran software engineers with more than 15 years of experience in the production of several MMORPGs. After more than two years of development, we have finally released a beta version you can test out, which is compatible with the **Unreal Engine 5 Early Access**. We plan to continuously update our software to make it function properly within the officially released version of the **Unreal Engine 5.**
 
-![T4Framework_Image](./T4Framework_Image.png)
+
 
 ## VirtualFlow Studio
 
@@ -28,11 +25,7 @@
   - UE5.0 Early Access 1
 - **Supported Platform**
   - Windows 64bit
-- **License**
-  - FREE ("Unreal Engine 5 Early Access" Version)
-- **Download Binaries**
-  - https://github.com/VirtualFlowInc/VirtualFlowStudio_Beta/releases
-    - [Installation guide](https://wiggly-burst-46b.notion.site/Tutorial-1-Introduction-to-T4Framework-Setup-for-the-Following-Tutorials-77f7bfcbc68e4fe19c13ee416ee7972d)
+
 - **Assets you need to download to follow along the tutorials (Free Assets)**
   - TutorialGame_Example Project
     - <a href="https://www.unrealengine.com/marketplace/en-US/product/c93f1fa73dad4adf9a3d09883d8c8dec" target="_blank">City of Brass: Environments</a>
@@ -41,8 +34,7 @@
     - <a href="https://www.unrealengine.com/marketplace/en-US/product/animation-starter-pack" target="_blank">Animation Starter Pack</a>
     - <a href="https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1" target="_blank">Advanced Locomotion System</a>
     - <a href="https://www.unrealengine.com/marketplace/en-US/product/fps-weapon-bundle" target="_blank">FPS Weapon Bundle</a>
-- **Showcase**
-  - <a href="https://t4framework.com/Showcase/" target="_blank">https://t4framework.com/Showcase</a>
+
 
 ### Tutorials
 
@@ -67,8 +59,4 @@
 - <a href="https://wiggly-burst-46b.notion.site/Tutorial-17-Running-a-Server-Incorporating-it-into-a-Package-e7d09be3f2904fa890c149b7285b8382" target="_blank">Tutorial 17: Running a Server & Incorporating it into a Package</a>
 - <a href="https://wiggly-burst-46b.notion.site/T4Framework-Hotkeys-Inputs-5d013c8fa3eb41c99adb594cb552b066" target="_blank">Input guide</a>
 
-### Community
-- Forum 
-  - In progress...
-- Customer Service
-  - info@virtualflowinc.com
+
